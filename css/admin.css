@@ -1,0 +1,296 @@
+* {
+	font-family: calibri, arial, helvetica, sans-serif;
+}
+
+body { 
+	padding: 0px;
+	margin: 0px;
+	font-size: 14px;
+	font-weight: normal;
+}
+
+td {
+	text-align: left;
+	vertical-align: top;
+}
+
+b {
+	font-weight: bold;
+}
+
+i {
+	font-style: italic;
+}
+
+a img {
+	border: 0;
+}
+
+a:link {
+	color: #333399;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+a:visited {
+	color: #333399;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+a:hover {
+	color: #ee6611;
+	text-decoration: underline;
+	font-weight: normal;
+}
+
+a:active {
+	color: #333399;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+ul, ol {
+	margin-left: 8px;
+}
+
+ul {
+	list-style-type: square;
+}
+
+ul.no_bullets {
+	list-style-type: none;
+	margin: 0px 0px 0px 10px;
+	padding: 0px;
+}
+
+pre {
+	font-family: courier new, monospace;
+	font-size: 14px;
+	font-weight: normal;
+}
+
+.t12 {
+	font-size: 12px;
+	font-weight: normal;
+}
+
+.t14 {
+	font-size: 14px;
+	font-weight: normal;
+}
+
+.t14r {
+	font-size: 14px;
+	font-weight: normal;
+	color: #cc0000;
+}
+
+.t16r {
+	font-size: 16px;
+	font-weight: normal;
+	color: #cc0000;
+}
+
+.t16 {
+	font-size: 16px;
+	font-weight: normal;
+}
+
+.t16r {
+	font-size: 16px;
+	font-weight: normal;
+	color: #cc0000;
+}
+
+.t18 {
+	font-size: 18px;
+	font-weight: normal;
+}
+
+.blue {
+	color: #006699;
+}
+
+.bg-lt-gray {
+	background-color: #eeeeee;
+}
+
+.admin_header {
+	border-top: none;
+	border-right: none;
+	border-bottom: 1px solid #000000;
+	border-left: none;
+	text-align: left;
+	vertical-align: middle;
+	padding: 10px;
+	background-color: #eeeeee;
+	width: auto;
+	height: auto;
+}
+
+.leftnav {
+	border-top: none;
+	border-right: 1px solid #000000;
+	border-bottom: none;
+	border-left: none;
+	background-color: #f6f6e6;
+	padding: 0px;
+	height: 100%;
+	vertical-align: top;
+}
+
+.leftnav2 {
+	padding: 10px 5px 10px 10px;
+	text-decoration: none;
+	font-style: normal;
+	font-size: 12px;
+}
+
+td.cell3 {
+	padding: 10px;
+	background-color: #ffffff;
+	border: 0px none #ffffff;
+	margin: 0px;
+}
+
+.updateitem {
+	border-top: none;
+	border-right: none;
+	border-bottom: 1px dotted #999999;
+	border-left: none;
+	text-align: left;
+	vertical-align: top;
+	font-size: 14px;
+	font-weight: normal;
+	padding: 10px 10px 10px 10px;
+	background-color: #ffffff;
+	width: auto;
+	height: auto;
+}
+
+.newsdate {
+	font-size: 10px;
+	color: #999999;
+	letter-spacing: 1px;
+}
+
+h1 {
+	font-size: 28px;
+	font-weight: bold;
+	border: none;
+	padding: 0px;
+	margin: 0px;
+	color: #000000;
+}
+
+h2 {
+	font-size: 22px;
+	font-weight: bold;
+	border: none;
+	padding: 0px;
+	margin: 0px 0px 50px 0px;
+	color: #000000;
+}
+
+h4 {
+	font-size: 16px;
+	font-weight: bold;
+	border: none;
+	padding: 0px;
+	margin: 20px 0px 0px 0px;
+	color: #ee6611;
+}
+
+.red {
+	color: #cc0000;
+}
+
+.centered {
+	text-align: center;
+}
+
+table.events {
+	font-size: 16px;
+	color: #333333;
+	border-width: 1px;
+	border-color: #999999;
+	border-collapse: collapse;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+table.events th {
+	border-width: 1px;
+	padding: 10px;
+	border-style: solid;
+	border-color: #999999;
+	background-color: #dedede;
+	text-align: left;
+}
+
+td.events1 {
+	border-width: 1px 0px 1px 1px;
+	padding: 30px 10px 30px 10px;
+	border-style: solid;
+	border-color: #999999;
+	background-color: #ffffff;
+	text-align: left;
+}
+
+td.events2 {
+	border-width: 1px 0px 1px 0px;
+	padding: 30px 10px 30px 10px;
+	border-style: solid;
+	border-color: #999999;
+	background-color: #ffffff;
+	text-align: left;
+}
+
+td.events3 {
+	border-width: 1px 1px 1px 0px;
+	padding: 30px 10px 30px 10px;
+	border-style: solid;
+	border-color: #999999;
+	background-color: #ffffff;
+	text-align: left;
+}
+
+input.events {
+	font-size: 14px;
+}
+
+/* jquery sortable styles */
+
+ul.sort_icon { 
+	width: 500px;
+	padding: 0px;
+	margin: 0px 0px 0px 50px;
+}
+
+ul.sort_icon li {
+	list-style-type: none;
+	background: url("../images/up_down_arrows.png") no-repeat left;
+	padding: 10px 10px 10px 20px;
+	margin: 10px 0px 10px 0px;
+	background-color: #f3e3c0;
+	border: 1px dotted #666666;
+}
+
+ul.no_sort_icon { 
+	width: 500px;
+	padding: 0px;
+	margin: 0px 0px 0px 50px;
+}
+
+ul.no_sort_icon li {
+	list-style-type: none;
+	padding: 10px 10px 10px 20px;
+	margin: 10px 0px 10px 0px;
+	background-color: #f3e3c0;
+	border: 1px dotted #666666;
+}
+
+.submit_button {
+	margin: 30px 20px 20px 250px;
+}

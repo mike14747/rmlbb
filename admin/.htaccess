@@ -1,0 +1,4 @@
+ErrorDocument 404 /admin/404.php
+ErrorDocument 502 /admin/502.php
+ErrorDocument 504 /admin/504.php
+ErrorDocument 508 /admin/508.php

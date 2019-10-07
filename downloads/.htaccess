@@ -1,0 +1,17 @@
+RewriteEngine on
+
+AddType application/octet-stream .txt
+AddType application/octet-stream .docx
+AddType application/octet-stream .doc
+AddType application/octet-stream .xls
+AddType application/octet-stream .xslx
+AddType application/octet-stream .lzp
+
+ErrorDocument 404 /404.php
+ErrorDocument 502 /502.php
+ErrorDocument 504 /504.php
+ErrorDocument 508 /508.php
+
+<FilesMatch "\.(doc|docx|xls|xlsx|pdf|lzp|txt)$">
+    Header set Cache-control "max-age=0, no-store"
+</FilesMatch>

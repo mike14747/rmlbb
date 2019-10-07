@@ -1,0 +1,1944 @@
+1,2019-03-29,Pilots,Athletics
+2,2019-03-29,Browns,Bandits
+3,2019-03-29,Knights,Monarchs
+4,2019-03-29,Twins,Captains
+5,2019-03-29,Yellow Jackets,Stars
+6,2019-03-29,Highlanders,Pelicans
+7,2019-03-29,Colt .45s,Firebirds
+8,2019-03-29,Expos,Blaze
+9,2019-03-29,Pilgrims,Whales
+10,2019-03-29,River Dogs,Grays
+11,2019-03-29,Indians,Reds
+12,2019-03-29,Gypsies,Mudhens
+13,2019-03-30,Pilots,Athletics
+14,2019-03-30,Browns,Bandits
+15,2019-03-30,Knights,Monarchs
+16,2019-03-30,Twins,Captains
+17,2019-03-30,Yellow Jackets,Stars
+18,2019-03-30,Highlanders,Pelicans
+19,2019-03-30,Colt .45s,Firebirds
+20,2019-03-30,Expos,Blaze
+21,2019-03-30,Pilgrims,Whales
+22,2019-03-30,River Dogs,Grays
+23,2019-03-30,Indians,Reds
+24,2019-03-30,Gypsies,Mudhens
+25,2019-03-31,Pilots,Athletics
+26,2019-03-31,Browns,Bandits
+27,2019-03-31,Knights,Monarchs
+28,2019-03-31,Twins,Captains
+29,2019-03-31,Yellow Jackets,Stars
+30,2019-03-31,Highlanders,Pelicans
+31,2019-03-31,Colt .45s,Firebirds
+32,2019-03-31,Expos,Blaze
+33,2019-03-31,Pilgrims,Whales
+34,2019-03-31,River Dogs,Grays
+35,2019-03-31,Indians,Reds
+36,2019-03-31,Gypsies,Mudhens
+37,2019-04-01,Pilots,Athletics
+38,2019-04-01,Browns,Bandits
+39,2019-04-01,Knights,Monarchs
+40,2019-04-01,Twins,Captains
+41,2019-04-01,Yellow Jackets,Stars
+42,2019-04-01,Highlanders,Pelicans
+43,2019-04-01,Colt .45s,Firebirds
+44,2019-04-01,Expos,Blaze
+45,2019-04-01,Pilgrims,Whales
+46,2019-04-01,River Dogs,Grays
+47,2019-04-01,Indians,Reds
+48,2019-04-01,Gypsies,Mudhens
+49,2019-04-02,Captains,Mudhens
+50,2019-04-02,Yellow Jackets,Bandits
+51,2019-04-02,Pilots,Colt .45s
+52,2019-04-02,Expos,Monarchs
+53,2019-04-02,Blaze,Twins
+54,2019-04-02,Gypsies,River Dogs
+55,2019-04-02,Reds,Browns
+56,2019-04-02,Highlanders,Knights
+57,2019-04-02,Athletics,Firebirds
+58,2019-04-02,Whales,Stars
+59,2019-04-02,Pilgrims,Indians
+60,2019-04-02,Grays,Pelicans
+61,2019-04-03,Captains,Mudhens
+62,2019-04-03,Yellow Jackets,Bandits
+63,2019-04-03,Pilots,Colt .45s
+64,2019-04-03,Expos,Monarchs
+65,2019-04-03,Blaze,Twins
+66,2019-04-03,Gypsies,River Dogs
+67,2019-04-03,Reds,Browns
+68,2019-04-03,Highlanders,Knights
+69,2019-04-03,Athletics,Firebirds
+70,2019-04-03,Whales,Stars
+71,2019-04-03,Pilgrims,Indians
+72,2019-04-03,Grays,Pelicans
+73,2019-04-04,Captains,Mudhens
+74,2019-04-04,Yellow Jackets,Bandits
+75,2019-04-04,Pilots,Colt .45s
+76,2019-04-04,Expos,Monarchs
+77,2019-04-04,Blaze,Twins
+78,2019-04-04,Gypsies,River Dogs
+79,2019-04-04,Reds,Browns
+80,2019-04-04,Highlanders,Knights
+81,2019-04-04,Athletics,Firebirds
+82,2019-04-04,Whales,Stars
+83,2019-04-04,Pilgrims,Indians
+84,2019-04-04,Grays,Pelicans
+85,2019-04-05,Stars,Pilots
+86,2019-04-05,Twins,Highlanders
+87,2019-04-05,Captains,Pelicans
+88,2019-04-05,Grays,Knights
+89,2019-04-05,Bandits,Browns
+90,2019-04-05,Reds,Indians
+91,2019-04-05,Whales,Firebirds
+92,2019-04-05,Colt .45s,Pilgrims
+93,2019-04-05,Mudhens,Blaze
+94,2019-04-05,Monarchs,River Dogs
+95,2019-04-05,Gypsies,Expos
+96,2019-04-05,Athletics,Yellow Jackets
+97,2019-04-06,Stars,Pilots
+98,2019-04-06,Twins,Highlanders
+99,2019-04-06,Captains,Pelicans
+100,2019-04-06,Grays,Knights
+101,2019-04-06,Bandits,Browns
+102,2019-04-06,Reds,Indians
+103,2019-04-06,Whales,Firebirds
+104,2019-04-06,Colt .45s,Pilgrims
+105,2019-04-06,Mudhens,Blaze
+106,2019-04-06,Monarchs,River Dogs
+107,2019-04-06,Gypsies,Expos
+108,2019-04-06,Athletics,Yellow Jackets
+109,2019-04-07,Stars,Pilots
+110,2019-04-07,Twins,Highlanders
+111,2019-04-07,Captains,Pelicans
+112,2019-04-07,Grays,Knights
+113,2019-04-07,Bandits,Browns
+114,2019-04-07,Reds,Indians
+115,2019-04-07,Whales,Firebirds
+116,2019-04-07,Colt .45s,Pilgrims
+117,2019-04-07,Mudhens,Blaze
+118,2019-04-07,Monarchs,River Dogs
+119,2019-04-07,Gypsies,Expos
+120,2019-04-07,Athletics,Yellow Jackets
+121,2019-04-08,Stars,Pilots
+122,2019-04-08,Twins,Highlanders
+123,2019-04-08,Captains,Pelicans
+124,2019-04-08,Grays,Knights
+125,2019-04-08,Bandits,Browns
+126,2019-04-08,Reds,Indians
+127,2019-04-08,Whales,Firebirds
+128,2019-04-08,Colt .45s,Pilgrims
+129,2019-04-08,Mudhens,Blaze
+130,2019-04-08,Monarchs,River Dogs
+131,2019-04-08,Gypsies,Expos
+132,2019-04-08,Athletics,Yellow Jackets
+133,2019-04-09,Athletics,Stars
+134,2019-04-09,Browns,Reds
+135,2019-04-09,Monarchs,Grays
+136,2019-04-09,Whales,Pilgrims
+137,2019-04-09,Captains,Twins
+138,2019-04-09,Pelicans,Highlanders
+139,2019-04-09,Mudhens,Expos
+140,2019-04-09,Blaze,Gypsies
+141,2019-04-09,Knights,River Dogs
+142,2019-04-09,Bandits,Indians
+143,2019-04-09,Yellow Jackets,Pilots
+144,2019-04-09,Firebirds,Colt .45s
+145,2019-04-10,Athletics,Stars
+146,2019-04-10,Browns,Reds
+147,2019-04-10,Monarchs,Grays
+148,2019-04-10,Whales,Pilgrims
+149,2019-04-10,Captains,Twins
+150,2019-04-10,Pelicans,Highlanders
+151,2019-04-10,Mudhens,Expos
+152,2019-04-10,Blaze,Gypsies
+153,2019-04-10,Knights,River Dogs
+154,2019-04-10,Bandits,Indians
+155,2019-04-10,Yellow Jackets,Pilots
+156,2019-04-10,Firebirds,Colt .45s
+157,2019-04-11,Athletics,Stars
+158,2019-04-11,Browns,Reds
+159,2019-04-11,Monarchs,Grays
+160,2019-04-11,Whales,Pilgrims
+161,2019-04-11,Captains,Twins
+162,2019-04-11,Pelicans,Highlanders
+163,2019-04-11,Mudhens,Expos
+164,2019-04-11,Blaze,Gypsies
+165,2019-04-11,Knights,River Dogs
+166,2019-04-11,Bandits,Indians
+167,2019-04-11,Yellow Jackets,Pilots
+168,2019-04-11,Firebirds,Colt .45s
+169,2019-04-12,Athletics,Stars
+170,2019-04-12,Browns,Reds
+171,2019-04-12,Monarchs,Grays
+172,2019-04-12,Whales,Pilgrims
+173,2019-04-12,Captains,Twins
+174,2019-04-12,Pelicans,Highlanders
+175,2019-04-12,Mudhens,Expos
+176,2019-04-12,Blaze,Gypsies
+177,2019-04-12,Knights,River Dogs
+178,2019-04-12,Bandits,Indians
+179,2019-04-12,Yellow Jackets,Pilots
+180,2019-04-12,Firebirds,Colt .45s
+181,2019-04-16,Pilots,Stars
+182,2019-04-16,Highlanders,Twins
+183,2019-04-16,Grays,River Dogs
+184,2019-04-16,Pelicans,Captains
+185,2019-04-16,Athletics,Yellow Jackets
+186,2019-04-16,Firebirds,Whales
+187,2019-04-16,Pilgrims,Colt .45s
+188,2019-04-16,Reds,Browns
+189,2019-04-16,Gypsies,Blaze
+190,2019-04-16,Expos,Mudhens
+191,2019-04-16,Bandits,Indians
+192,2019-04-16,Monarchs,Knights
+193,2019-04-17,Pilots,Stars
+194,2019-04-17,Highlanders,Twins
+195,2019-04-17,Grays,River Dogs
+196,2019-04-17,Pelicans,Captains
+197,2019-04-17,Athletics,Yellow Jackets
+198,2019-04-17,Firebirds,Whales
+199,2019-04-17,Pilgrims,Colt .45s
+200,2019-04-17,Reds,Browns
+201,2019-04-17,Gypsies,Blaze
+202,2019-04-17,Expos,Mudhens
+203,2019-04-17,Bandits,Indians
+204,2019-04-17,Monarchs,Knights
+205,2019-04-18,Pilots,Stars
+206,2019-04-18,Highlanders,Twins
+207,2019-04-18,Grays,River Dogs
+208,2019-04-18,Pelicans,Captains
+209,2019-04-18,Athletics,Yellow Jackets
+210,2019-04-18,Firebirds,Whales
+211,2019-04-18,Pilgrims,Colt .45s
+212,2019-04-18,Reds,Browns
+213,2019-04-18,Gypsies,Blaze
+214,2019-04-18,Expos,Mudhens
+215,2019-04-18,Bandits,Indians
+216,2019-04-18,Monarchs,Knights
+217,2019-04-19,Pilots,Stars
+218,2019-04-19,Highlanders,Twins
+219,2019-04-19,Grays,River Dogs
+220,2019-04-19,Pelicans,Captains
+221,2019-04-19,Athletics,Yellow Jackets
+222,2019-04-19,Firebirds,Whales
+223,2019-04-19,Pilgrims,Colt .45s
+224,2019-04-19,Reds,Browns
+225,2019-04-19,Gypsies,Blaze
+226,2019-04-19,Expos,Mudhens
+227,2019-04-19,Bandits,Indians
+228,2019-04-19,Monarchs,Knights
+229,2019-04-20,Yellow Jackets,Stars
+230,2019-04-20,Pilots,Athletics
+231,2019-04-20,Grays,Monarchs
+232,2019-04-20,Captains,Highlanders
+233,2019-04-20,Blaze,Mudhens
+234,2019-04-20,Bandits,Reds
+235,2019-04-20,Firebirds,Pilgrims
+236,2019-04-20,Expos,Gypsies
+237,2019-04-20,Twins,Pelicans
+238,2019-04-20,Colt .45s,Whales
+239,2019-04-20,Knights,River Dogs
+240,2019-04-20,Indians,Browns
+241,2019-04-21,Yellow Jackets,Stars
+242,2019-04-21,Pilots,Athletics
+243,2019-04-21,Grays,Monarchs
+244,2019-04-21,Captains,Highlanders
+245,2019-04-21,Blaze,Mudhens
+246,2019-04-21,Bandits,Reds
+247,2019-04-21,Firebirds,Pilgrims
+248,2019-04-21,Expos,Gypsies
+249,2019-04-21,Twins,Pelicans
+250,2019-04-21,Colt .45s,Whales
+251,2019-04-21,Knights,River Dogs
+252,2019-04-21,Indians,Browns
+253,2019-04-22,Yellow Jackets,Stars
+254,2019-04-22,Pilots,Athletics
+255,2019-04-22,Grays,Monarchs
+256,2019-04-22,Captains,Highlanders
+257,2019-04-22,Blaze,Mudhens
+258,2019-04-22,Bandits,Reds
+259,2019-04-22,Firebirds,Pilgrims
+260,2019-04-22,Expos,Gypsies
+261,2019-04-22,Twins,Pelicans
+262,2019-04-22,Colt .45s,Whales
+263,2019-04-22,Knights,River Dogs
+264,2019-04-22,Indians,Browns
+265,2019-04-23,Yellow Jackets,Stars
+266,2019-04-23,Pilots,Athletics
+267,2019-04-23,Grays,Monarchs
+268,2019-04-23,Captains,Highlanders
+269,2019-04-23,Blaze,Mudhens
+270,2019-04-23,Bandits,Reds
+271,2019-04-23,Firebirds,Pilgrims
+272,2019-04-23,Expos,Gypsies
+273,2019-04-23,Twins,Pelicans
+274,2019-04-23,Colt .45s,Whales
+275,2019-04-23,Knights,River Dogs
+276,2019-04-23,Indians,Browns
+277,2019-04-24,Mudhens,River Dogs
+278,2019-04-24,Expos,Knights
+279,2019-04-24,Indians,Colt .45s
+280,2019-04-24,Monarchs,Twins
+281,2019-04-24,Gypsies,Captains
+282,2019-04-24,Pelicans,Blaze
+283,2019-04-24,Pilots,Stars
+284,2019-04-24,Firebirds,Yellow Jackets
+285,2019-04-24,Pilgrims,Browns
+286,2019-04-24,Athletics,Reds
+287,2019-04-24,Bandits,Whales
+288,2019-04-24,Highlanders,Grays
+289,2019-04-25,Mudhens,River Dogs
+290,2019-04-25,Expos,Knights
+291,2019-04-25,Indians,Colt .45s
+292,2019-04-25,Monarchs,Twins
+293,2019-04-25,Gypsies,Captains
+294,2019-04-25,Pelicans,Blaze
+295,2019-04-25,Pilots,Stars
+296,2019-04-25,Firebirds,Yellow Jackets
+297,2019-04-25,Pilgrims,Browns
+298,2019-04-25,Athletics,Reds
+299,2019-04-25,Bandits,Whales
+300,2019-04-25,Highlanders,Grays
+301,2019-04-26,Mudhens,River Dogs
+302,2019-04-26,Expos,Knights
+303,2019-04-26,Indians,Colt .45s
+304,2019-04-26,Monarchs,Twins
+305,2019-04-26,Gypsies,Captains
+306,2019-04-26,Pelicans,Blaze
+307,2019-04-26,Pilots,Stars
+308,2019-04-26,Firebirds,Yellow Jackets
+309,2019-04-26,Pilgrims,Browns
+310,2019-04-26,Athletics,Reds
+311,2019-04-26,Bandits,Whales
+312,2019-04-26,Highlanders,Grays
+313,2019-04-27,Gypsies,Knights
+314,2019-04-27,Highlanders,Blaze
+315,2019-04-27,Indians,Bandits
+316,2019-04-27,River Dogs,Expos
+317,2019-04-27,Stars,Browns
+318,2019-04-27,Pilots,Pilgrims
+319,2019-04-27,Reds,Firebirds
+320,2019-04-27,Twins,Mudhens
+321,2019-04-27,Monarchs,Pelicans
+322,2019-04-27,Colt .45s,Yellow Jackets
+323,2019-04-27,Grays,Captains
+324,2019-04-28,Gypsies,Knights
+325,2019-04-28,Highlanders,Blaze
+326,2019-04-28,Indians,Bandits
+327,2019-04-28,River Dogs,Expos
+328,2019-04-28,Stars,Browns
+329,2019-04-28,Pilots,Pilgrims
+330,2019-04-28,Reds,Firebirds
+331,2019-04-28,Twins,Mudhens
+332,2019-04-28,Monarchs,Pelicans
+333,2019-04-28,Colt .45s,Yellow Jackets
+334,2019-04-28,Grays,Captains
+335,2019-04-29,Gypsies,Knights
+336,2019-04-29,Highlanders,Blaze
+337,2019-04-29,Indians,Bandits
+338,2019-04-29,River Dogs,Expos
+339,2019-04-29,Stars,Browns
+340,2019-04-29,Pilots,Pilgrims
+341,2019-04-29,Reds,Firebirds
+342,2019-04-29,Twins,Mudhens
+343,2019-04-29,Monarchs,Pelicans
+344,2019-04-29,Colt .45s,Yellow Jackets
+345,2019-04-29,Grays,Captains
+346,2019-04-30,Reds,Yellow Jackets
+347,2019-04-30,Gypsies,Twins
+348,2019-04-30,Whales,Stars
+349,2019-04-30,Indians,Athletics
+350,2019-04-30,Monarchs,Captains
+351,2019-04-30,Browns,Colt .45s
+352,2019-04-30,Firebirds,Bandits
+353,2019-04-30,Blaze,Grays
+354,2019-04-30,Pelicans,Mudhens
+355,2019-05-01,Reds,Yellow Jackets
+356,2019-05-01,Gypsies,Twins
+357,2019-05-01,Whales,Stars
+358,2019-05-01,Indians,Athletics
+359,2019-05-01,Monarchs,Captains
+360,2019-05-01,Browns,Colt .45s
+361,2019-05-01,Firebirds,Bandits
+362,2019-05-01,Blaze,Grays
+363,2019-05-01,Pelicans,Mudhens
+364,2019-05-02,Reds,Yellow Jackets
+365,2019-05-02,Gypsies,Twins
+366,2019-05-02,Whales,Stars
+367,2019-05-02,Indians,Athletics
+368,2019-05-02,Monarchs,Captains
+369,2019-05-02,Browns,Colt .45s
+370,2019-05-02,Firebirds,Bandits
+371,2019-05-02,Blaze,Grays
+372,2019-05-02,Pelicans,Mudhens
+373,2019-05-03,Bandits,Browns
+374,2019-05-03,Monarchs,Knights
+375,2019-05-03,Athletics,Stars
+376,2019-05-03,Grays,River Dogs
+377,2019-05-03,Pilots,Yellow Jackets
+378,2019-05-03,Firebirds,Pilgrims
+379,2019-05-03,Highlanders,Captains
+380,2019-05-03,Blaze,Gypsies
+381,2019-05-03,Indians,Reds
+382,2019-05-03,Expos,Mudhens
+383,2019-05-03,Whales,Colt .45s
+384,2019-05-03,Pelicans,Twins
+385,2019-05-04,Bandits,Browns
+386,2019-05-04,Monarchs,Knights
+387,2019-05-04,Athletics,Stars
+388,2019-05-04,Grays,River Dogs
+389,2019-05-04,Pilots,Yellow Jackets
+390,2019-05-04,Firebirds,Pilgrims
+391,2019-05-04,Highlanders,Captains
+392,2019-05-04,Blaze,Gypsies
+393,2019-05-04,Indians,Reds
+394,2019-05-04,Expos,Mudhens
+395,2019-05-04,Whales,Colt .45s
+396,2019-05-04,Pelicans,Twins
+397,2019-05-05,Bandits,Browns
+398,2019-05-05,Monarchs,Knights
+399,2019-05-05,Athletics,Stars
+400,2019-05-05,Grays,River Dogs
+401,2019-05-05,Pilots,Yellow Jackets
+402,2019-05-05,Firebirds,Pilgrims
+403,2019-05-05,Highlanders,Captains
+404,2019-05-05,Blaze,Gypsies
+405,2019-05-05,Indians,Reds
+406,2019-05-05,Expos,Mudhens
+407,2019-05-05,Whales,Colt .45s
+408,2019-05-05,Pelicans,Twins
+409,2019-05-06,Bandits,Browns
+410,2019-05-06,Monarchs,Knights
+411,2019-05-06,Athletics,Stars
+412,2019-05-06,Grays,River Dogs
+413,2019-05-06,Pilots,Yellow Jackets
+414,2019-05-06,Firebirds,Pilgrims
+415,2019-05-06,Highlanders,Captains
+416,2019-05-06,Blaze,Gypsies
+417,2019-05-06,Indians,Reds
+418,2019-05-06,Expos,Mudhens
+419,2019-05-06,Whales,Colt .45s
+420,2019-05-06,Pelicans,Twins
+421,2019-05-07,Expos,Pelicans
+422,2019-05-07,River Dogs,Captains
+423,2019-05-07,Grays,Highlanders
+424,2019-05-07,Yellow Jackets,Bandits
+425,2019-05-07,Blaze,Monarchs
+426,2019-05-07,Athletics,Pilgrims
+427,2019-05-07,Indians,Firebirds
+428,2019-05-07,Pilots,Whales
+429,2019-05-07,Knights,Twins
+430,2019-05-07,Browns,Colt .45s
+431,2019-05-08,Expos,Pelicans
+432,2019-05-08,River Dogs,Captains
+433,2019-05-08,Grays,Highlanders
+434,2019-05-08,Yellow Jackets,Bandits
+435,2019-05-08,Blaze,Monarchs
+436,2019-05-08,Athletics,Pilgrims
+437,2019-05-08,Indians,Firebirds
+438,2019-05-08,Pilots,Whales
+439,2019-05-08,Knights,Twins
+440,2019-05-08,Browns,Colt .45s
+441,2019-05-09,Expos,Pelicans
+442,2019-05-09,River Dogs,Captains
+443,2019-05-09,Grays,Highlanders
+444,2019-05-09,Yellow Jackets,Bandits
+445,2019-05-09,Blaze,Monarchs
+446,2019-05-09,Athletics,Pilgrims
+447,2019-05-09,Indians,Firebirds
+448,2019-05-09,Pilots,Whales
+449,2019-05-09,Knights,Twins
+450,2019-05-09,Browns,Colt .45s
+451,2019-05-10,Colt .45s,Indians
+452,2019-05-10,Bandits,Pilots
+453,2019-05-10,Pilgrims,Whales
+454,2019-05-10,Highlanders,Blaze
+455,2019-05-10,Yellow Jackets,Stars
+456,2019-05-10,Expos,Captains
+457,2019-05-10,Mudhens,Knights
+458,2019-05-10,Gypsies,Monarchs
+459,2019-05-10,Pelicans,River Dogs
+460,2019-05-10,Reds,Athletics
+461,2019-05-11,Colt .45s,Indians
+462,2019-05-11,Bandits,Pilots
+463,2019-05-11,Pilgrims,Whales
+464,2019-05-11,Highlanders,Blaze
+465,2019-05-11,Yellow Jackets,Stars
+466,2019-05-11,Expos,Captains
+467,2019-05-11,Mudhens,Knights
+468,2019-05-11,Gypsies,Monarchs
+469,2019-05-11,Pelicans,River Dogs
+470,2019-05-11,Reds,Athletics
+471,2019-05-12,Colt .45s,Indians
+472,2019-05-12,Bandits,Pilots
+473,2019-05-12,Pilgrims,Whales
+474,2019-05-12,Highlanders,Blaze
+475,2019-05-12,Yellow Jackets,Stars
+476,2019-05-12,Expos,Captains
+477,2019-05-12,Mudhens,Knights
+478,2019-05-12,Gypsies,Monarchs
+479,2019-05-12,Pelicans,River Dogs
+480,2019-05-12,Reds,Athletics
+481,2019-05-13,Whales,Reds
+482,2019-05-13,Browns,Athletics
+483,2019-05-13,Highlanders,Gypsies
+484,2019-05-13,Pilgrims,Stars
+485,2019-05-13,Mudhens,Twins
+486,2019-05-13,Yellow Jackets,Firebirds
+487,2019-05-13,Captains,Monarchs
+488,2019-05-13,Grays,Expos
+489,2019-05-13,Pelicans,Knights
+490,2019-05-14,Whales,Reds
+491,2019-05-14,Browns,Athletics
+492,2019-05-14,Highlanders,Gypsies
+493,2019-05-14,Pilgrims,Stars
+494,2019-05-14,Mudhens,Twins
+495,2019-05-14,Yellow Jackets,Firebirds
+496,2019-05-14,Captains,Monarchs
+497,2019-05-14,Grays,Expos
+498,2019-05-14,Pelicans,Knights
+499,2019-05-15,Whales,Reds
+500,2019-05-15,Browns,Athletics
+501,2019-05-15,Highlanders,Gypsies
+502,2019-05-15,Pilgrims,Stars
+503,2019-05-15,Mudhens,Twins
+504,2019-05-15,Yellow Jackets,Firebirds
+505,2019-05-15,Captains,Monarchs
+506,2019-05-15,Grays,Expos
+507,2019-05-15,Pelicans,Knights
+508,2019-05-16,Mudhens,Knights
+509,2019-05-16,Indians,Yellow Jackets
+510,2019-05-16,Colt .45s,Athletics
+511,2019-05-16,Grays,Gypsies
+512,2019-05-16,Pilots,Bandits
+513,2019-05-16,Browns,Reds
+514,2019-05-16,Blaze,Pelicans
+515,2019-05-16,Twins,River Dogs
+516,2019-05-16,Captains,Highlanders
+517,2019-05-16,Pilgrims,Firebirds
+518,2019-05-16,Stars,Whales
+519,2019-05-16,Expos,Monarchs
+520,2019-05-17,Mudhens,Knights
+521,2019-05-17,Indians,Yellow Jackets
+522,2019-05-17,Colt .45s,Athletics
+523,2019-05-17,Grays,Gypsies
+524,2019-05-17,Pilots,Bandits
+525,2019-05-17,Browns,Reds
+526,2019-05-17,Blaze,Pelicans
+527,2019-05-17,Twins,River Dogs
+528,2019-05-17,Captains,Highlanders
+529,2019-05-17,Pilgrims,Firebirds
+530,2019-05-17,Stars,Whales
+531,2019-05-17,Expos,Monarchs
+532,2019-05-18,Mudhens,Knights
+533,2019-05-18,Indians,Yellow Jackets
+534,2019-05-18,Colt .45s,Athletics
+535,2019-05-18,Grays,Gypsies
+536,2019-05-18,Pilots,Bandits
+537,2019-05-18,Browns,Reds
+538,2019-05-18,Blaze,Pelicans
+539,2019-05-18,Twins,River Dogs
+540,2019-05-18,Captains,Highlanders
+541,2019-05-18,Pilgrims,Firebirds
+542,2019-05-18,Stars,Whales
+543,2019-05-18,Expos,Monarchs
+544,2019-05-19,Browns,Bandits
+545,2019-05-19,Athletics,Pilots
+546,2019-05-19,Grays,Blaze
+547,2019-05-19,Monarchs,River Dogs
+548,2019-05-19,Yellow Jackets,Firebirds
+549,2019-05-19,Knights,Highlanders
+550,2019-05-19,Twins,Gypsies
+551,2019-05-19,Mudhens,Pelicans
+552,2019-05-19,Pilgrims,Indians
+553,2019-05-19,Stars,Colt .45s
+554,2019-05-19,Reds,Whales
+555,2019-05-19,Expos,Captains
+556,2019-05-20,Browns,Bandits
+557,2019-05-20,Athletics,Pilots
+558,2019-05-20,Grays,Blaze
+559,2019-05-20,Monarchs,River Dogs
+560,2019-05-20,Yellow Jackets,Firebirds
+561,2019-05-20,Knights,Highlanders
+562,2019-05-20,Twins,Gypsies
+563,2019-05-20,Mudhens,Pelicans
+564,2019-05-20,Pilgrims,Indians
+565,2019-05-20,Stars,Colt .45s
+566,2019-05-20,Reds,Whales
+567,2019-05-20,Expos,Captains
+568,2019-05-21,Browns,Bandits
+569,2019-05-21,Athletics,Pilots
+570,2019-05-21,Grays,Blaze
+571,2019-05-21,Monarchs,River Dogs
+572,2019-05-21,Yellow Jackets,Firebirds
+573,2019-05-21,Knights,Highlanders
+574,2019-05-21,Twins,Gypsies
+575,2019-05-21,Mudhens,Pelicans
+576,2019-05-21,Pilgrims,Indians
+577,2019-05-21,Stars,Colt .45s
+578,2019-05-21,Reds,Whales
+579,2019-05-21,Expos,Captains
+580,2019-05-22,Indians,Yellow Jackets
+581,2019-05-22,Expos,Grays
+582,2019-05-22,Knights,Mudhens
+583,2019-05-22,Captains,Gypsies
+584,2019-05-22,Stars,Firebirds
+585,2019-05-22,River Dogs,Twins
+586,2019-05-22,Blaze,Highlanders
+587,2019-05-22,Pilgrims,Reds
+588,2019-05-22,Bandits,Whales
+589,2019-05-22,Athletics,Browns
+590,2019-05-22,Colt .45s,Pilots
+591,2019-05-23,Indians,Yellow Jackets
+592,2019-05-23,Expos,Grays
+593,2019-05-23,Knights,Mudhens
+594,2019-05-23,Captains,Gypsies
+595,2019-05-23,Stars,Firebirds
+596,2019-05-23,River Dogs,Twins
+597,2019-05-23,Blaze,Highlanders
+598,2019-05-23,Pilgrims,Reds
+599,2019-05-23,Bandits,Whales
+600,2019-05-23,Athletics,Browns
+601,2019-05-23,Colt .45s,Pilots
+602,2019-05-24,Indians,Yellow Jackets
+603,2019-05-24,Expos,Grays
+604,2019-05-24,Knights,Mudhens
+605,2019-05-24,Captains,Gypsies
+606,2019-05-24,Stars,Firebirds
+607,2019-05-24,River Dogs,Twins
+608,2019-05-24,Blaze,Highlanders
+609,2019-05-24,Pilgrims,Reds
+610,2019-05-24,Bandits,Whales
+611,2019-05-24,Athletics,Browns
+612,2019-05-24,Colt .45s,Pilots
+613,2019-05-25,Stars,Yellow Jackets
+614,2019-05-25,Athletics,Pilots
+615,2019-05-25,Mudhens,Expos
+616,2019-05-25,Indians,Browns
+617,2019-05-25,Reds,Bandits
+618,2019-05-25,Knights,Grays
+619,2019-05-25,Highlanders,Pelicans
+620,2019-05-25,Pilgrims,Firebirds
+621,2019-05-25,Whales,Colt .45s
+622,2019-05-25,Gypsies,Blaze
+623,2019-05-25,Captains,Twins
+624,2019-05-25,River Dogs,Monarchs
+625,2019-05-26,Stars,Yellow Jackets
+626,2019-05-26,Athletics,Pilots
+627,2019-05-26,Mudhens,Expos
+628,2019-05-26,Indians,Browns
+629,2019-05-26,Reds,Bandits
+630,2019-05-26,Knights,Grays
+631,2019-05-26,Highlanders,Pelicans
+632,2019-05-26,Pilgrims,Firebirds
+633,2019-05-26,Whales,Colt .45s
+634,2019-05-26,Gypsies,Blaze
+635,2019-05-26,Captains,Twins
+636,2019-05-26,River Dogs,Monarchs
+637,2019-05-27,Stars,Yellow Jackets
+638,2019-05-27,Athletics,Pilots
+639,2019-05-27,Mudhens,Expos
+640,2019-05-27,Indians,Browns
+641,2019-05-27,Reds,Bandits
+642,2019-05-27,Knights,Grays
+643,2019-05-27,Highlanders,Pelicans
+644,2019-05-27,Pilgrims,Firebirds
+645,2019-05-27,Whales,Colt .45s
+646,2019-05-27,Gypsies,Blaze
+647,2019-05-27,Captains,Twins
+648,2019-05-27,River Dogs,Monarchs
+649,2019-05-28,Stars,Yellow Jackets
+650,2019-05-28,Athletics,Pilots
+651,2019-05-28,Mudhens,Expos
+652,2019-05-28,Indians,Browns
+653,2019-05-28,Reds,Bandits
+654,2019-05-28,Knights,Grays
+655,2019-05-28,Highlanders,Pelicans
+656,2019-05-28,Pilgrims,Firebirds
+657,2019-05-28,Whales,Colt .45s
+658,2019-05-28,Gypsies,Blaze
+659,2019-05-28,Captains,Twins
+660,2019-05-28,River Dogs,Monarchs
+661,2019-05-29,Captains,Monarchs
+662,2019-05-29,Mudhens,River Dogs
+663,2019-05-29,Bandits,Stars
+664,2019-05-29,Yellow Jackets,Browns
+665,2019-05-29,Twins,Highlanders
+666,2019-05-29,Whales,Pilots
+667,2019-05-29,Knights,Blaze
+668,2019-05-29,Indians,Pilgrims
+669,2019-05-29,Pelicans,Grays
+670,2019-05-29,Firebirds,Reds
+671,2019-05-29,Gypsies,Expos
+672,2019-05-29,Athletics,Colt .45s
+673,2019-05-30,Captains,Monarchs
+674,2019-05-30,Mudhens,River Dogs
+675,2019-05-30,Bandits,Stars
+676,2019-05-30,Yellow Jackets,Browns
+677,2019-05-30,Twins,Highlanders
+678,2019-05-30,Whales,Pilots
+679,2019-05-30,Knights,Blaze
+680,2019-05-30,Indians,Pilgrims
+681,2019-05-30,Pelicans,Grays
+682,2019-05-30,Firebirds,Reds
+683,2019-05-30,Gypsies,Expos
+684,2019-05-30,Athletics,Colt .45s
+685,2019-05-31,Captains,Monarchs
+686,2019-05-31,Mudhens,River Dogs
+687,2019-05-31,Bandits,Stars
+688,2019-05-31,Yellow Jackets,Browns
+689,2019-05-31,Twins,Highlanders
+690,2019-05-31,Whales,Pilots
+691,2019-05-31,Knights,Blaze
+692,2019-05-31,Indians,Pilgrims
+693,2019-05-31,Pelicans,Grays
+694,2019-05-31,Firebirds,Reds
+695,2019-05-31,Gypsies,Expos
+696,2019-05-31,Athletics,Colt .45s
+697,2019-06-04,Monarchs,Captains
+698,2019-06-04,Indians,Whales
+699,2019-06-04,Pelicans,River Dogs
+700,2019-06-04,Gypsies,Grays
+701,2019-06-04,Bandits,Yellow Jackets
+702,2019-06-04,Firebirds,Browns
+703,2019-06-04,Pilgrims,Pilots
+704,2019-06-04,Knights,Mudhens
+705,2019-06-04,Expos,Highlanders
+706,2019-06-04,Athletics,Colt .45s
+707,2019-06-04,Twins,Blaze
+708,2019-06-04,Reds,Stars
+709,2019-06-05,Monarchs,Captains
+710,2019-06-05,Indians,Whales
+711,2019-06-05,Pelicans,River Dogs
+712,2019-06-05,Gypsies,Grays
+713,2019-06-05,Bandits,Yellow Jackets
+714,2019-06-05,Firebirds,Browns
+715,2019-06-05,Pilgrims,Pilots
+716,2019-06-05,Knights,Mudhens
+717,2019-06-05,Expos,Highlanders
+718,2019-06-05,Athletics,Colt .45s
+719,2019-06-05,Twins,Blaze
+720,2019-06-05,Reds,Stars
+721,2019-06-06,Monarchs,Captains
+722,2019-06-06,Indians,Whales
+723,2019-06-06,Pelicans,River Dogs
+724,2019-06-06,Gypsies,Grays
+725,2019-06-06,Bandits,Yellow Jackets
+726,2019-06-06,Firebirds,Browns
+727,2019-06-06,Pilgrims,Pilots
+728,2019-06-06,Knights,Mudhens
+729,2019-06-06,Expos,Highlanders
+730,2019-06-06,Athletics,Colt .45s
+731,2019-06-06,Twins,Blaze
+732,2019-06-06,Reds,Stars
+733,2019-06-07,River Dogs,Blaze
+734,2019-06-07,Stars,Bandits
+735,2019-06-07,Pilots,Indians
+736,2019-06-07,Athletics,Firebirds
+737,2019-06-07,Yellow Jackets,Colt .45s
+738,2019-06-07,Highlanders,Mudhens
+739,2019-06-07,Browns,Whales
+740,2019-06-07,Grays,Monarchs
+741,2019-06-07,Gypsies,Knights
+742,2019-06-07,Reds,Pilgrims
+743,2019-06-07,Pelicans,Expos
+744,2019-06-07,Twins,Captains
+745,2019-06-08,River Dogs,Blaze
+746,2019-06-08,Stars,Bandits
+747,2019-06-08,Pilots,Indians
+748,2019-06-08,Athletics,Firebirds
+749,2019-06-08,Yellow Jackets,Colt .45s
+750,2019-06-08,Highlanders,Mudhens
+751,2019-06-08,Browns,Whales
+752,2019-06-08,Grays,Monarchs
+753,2019-06-08,Gypsies,Knights
+754,2019-06-08,Reds,Pilgrims
+755,2019-06-08,Pelicans,Expos
+756,2019-06-08,Twins,Captains
+757,2019-06-09,River Dogs,Blaze
+758,2019-06-09,Stars,Bandits
+759,2019-06-09,Pilots,Indians
+760,2019-06-09,Athletics,Firebirds
+761,2019-06-09,Yellow Jackets,Colt .45s
+762,2019-06-09,Highlanders,Mudhens
+763,2019-06-09,Browns,Whales
+764,2019-06-09,Grays,Monarchs
+765,2019-06-09,Gypsies,Knights
+766,2019-06-09,Reds,Pilgrims
+767,2019-06-09,Pelicans,Expos
+768,2019-06-09,Twins,Captains
+769,2019-06-10,Bandits,Reds
+770,2019-06-10,Highlanders,Captains
+771,2019-06-10,Pilgrims,Colt .45s
+772,2019-06-10,Yellow Jackets,Athletics
+773,2019-06-10,Firebirds,Whales
+774,2019-06-10,Pilots,Stars
+775,2019-06-10,Grays,Knights
+776,2019-06-10,Blaze,Mudhens
+777,2019-06-10,Pelicans,Twins
+778,2019-06-10,Browns,Indians
+779,2019-06-10,River Dogs,Monarchs
+780,2019-06-10,Gypsies,Expos
+781,2019-06-11,Bandits,Reds
+782,2019-06-11,Highlanders,Captains
+783,2019-06-11,Pilgrims,Colt .45s
+784,2019-06-11,Yellow Jackets,Athletics
+785,2019-06-11,Firebirds,Whales
+786,2019-06-11,Pilots,Stars
+787,2019-06-11,Grays,Knights
+788,2019-06-11,Blaze,Mudhens
+789,2019-06-11,Pelicans,Twins
+790,2019-06-11,Browns,Indians
+791,2019-06-11,River Dogs,Monarchs
+792,2019-06-11,Gypsies,Expos
+793,2019-06-12,Bandits,Reds
+794,2019-06-12,Highlanders,Captains
+795,2019-06-12,Pilgrims,Colt .45s
+796,2019-06-12,Yellow Jackets,Athletics
+797,2019-06-12,Firebirds,Whales
+798,2019-06-12,Pilots,Stars
+799,2019-06-12,Grays,Knights
+800,2019-06-12,Blaze,Mudhens
+801,2019-06-12,Pelicans,Twins
+802,2019-06-12,Browns,Indians
+803,2019-06-12,River Dogs,Monarchs
+804,2019-06-12,Gypsies,Expos
+805,2019-06-13,Bandits,Reds
+806,2019-06-13,Highlanders,Captains
+807,2019-06-13,Pilgrims,Colt .45s
+808,2019-06-13,Yellow Jackets,Athletics
+809,2019-06-13,Firebirds,Whales
+810,2019-06-13,Pilots,Stars
+811,2019-06-13,Grays,Knights
+812,2019-06-13,Blaze,Mudhens
+813,2019-06-13,Pelicans,Twins
+814,2019-06-13,Browns,Indians
+815,2019-06-13,River Dogs,Monarchs
+816,2019-06-13,Gypsies,Expos
+817,2019-06-14,Mudhens,Blaze
+818,2019-06-14,Captains,Grays
+819,2019-06-14,Twins,Knights
+820,2019-06-14,Colt .45s,Athletics
+821,2019-06-14,Monarchs,Highlanders
+822,2019-06-14,Yellow Jackets,Indians
+823,2019-06-14,Pilots,Browns
+824,2019-06-14,Firebirds,Stars
+825,2019-06-14,Expos,Pelicans
+826,2019-06-14,Whales,Bandits
+827,2019-06-14,River Dogs,Gypsies
+828,2019-06-14,Pilgrims,Reds
+829,2019-06-15,Mudhens,Blaze
+830,2019-06-15,Captains,Grays
+831,2019-06-15,Twins,Knights
+832,2019-06-15,Colt .45s,Athletics
+833,2019-06-15,Monarchs,Highlanders
+834,2019-06-15,Yellow Jackets,Indians
+835,2019-06-15,Pilots,Browns
+836,2019-06-15,Firebirds,Stars
+837,2019-06-15,Expos,Pelicans
+838,2019-06-15,Whales,Bandits
+839,2019-06-15,River Dogs,Gypsies
+840,2019-06-15,Pilgrims,Reds
+841,2019-06-16,Mudhens,Blaze
+842,2019-06-16,Captains,Grays
+843,2019-06-16,Twins,Knights
+844,2019-06-16,Colt .45s,Athletics
+845,2019-06-16,Monarchs,Highlanders
+846,2019-06-16,Yellow Jackets,Indians
+847,2019-06-16,Pilots,Browns
+848,2019-06-16,Firebirds,Stars
+849,2019-06-16,Expos,Pelicans
+850,2019-06-16,Whales,Bandits
+851,2019-06-16,River Dogs,Gypsies
+852,2019-06-16,Pilgrims,Reds
+853,2019-06-20,Knights,Expos
+854,2019-06-20,Reds,Indians
+855,2019-06-20,Pelicans,Captains
+856,2019-06-20,River Dogs,Highlanders
+857,2019-06-20,Colt .45s,Browns
+858,2019-06-20,Pilots,Bandits
+859,2019-06-20,Yellow Jackets,Pilgrims
+860,2019-06-20,Blaze,Gypsies
+861,2019-06-20,Mudhens,Grays
+862,2019-06-20,Stars,Firebirds
+863,2019-06-20,Athletics,Whales
+864,2019-06-20,Twins,Monarchs
+865,2019-06-21,Knights,Expos
+866,2019-06-21,Reds,Indians
+867,2019-06-21,Pelicans,Captains
+868,2019-06-21,River Dogs,Highlanders
+869,2019-06-21,Colt .45s,Browns
+870,2019-06-21,Pilots,Bandits
+871,2019-06-21,Yellow Jackets,Pilgrims
+872,2019-06-21,Blaze,Gypsies
+873,2019-06-21,Mudhens,Grays
+874,2019-06-21,Stars,Firebirds
+875,2019-06-21,Athletics,Whales
+876,2019-06-21,Twins,Monarchs
+877,2019-06-22,Knights,Expos
+878,2019-06-22,Reds,Indians
+879,2019-06-22,Pelicans,Captains
+880,2019-06-22,River Dogs,Highlanders
+881,2019-06-22,Colt .45s,Browns
+882,2019-06-22,Pilots,Bandits
+883,2019-06-22,Yellow Jackets,Pilgrims
+884,2019-06-22,Blaze,Gypsies
+885,2019-06-22,Mudhens,Grays
+886,2019-06-22,Stars,Firebirds
+887,2019-06-22,Athletics,Whales
+888,2019-06-22,Twins,Monarchs
+889,2019-06-23,Yellow Jackets,Indians
+890,2019-06-23,Blaze,Twins
+891,2019-06-23,Gypsies,Grays
+892,2019-06-23,Reds,Colt .45s
+893,2019-06-23,Captains,Pelicans
+894,2019-06-23,River Dogs,Knights
+895,2019-06-23,Pilots,Firebirds
+896,2019-06-23,Pilgrims,Bandits
+897,2019-06-23,Expos,Mudhens
+898,2019-06-23,Highlanders,Monarchs
+899,2019-06-23,Athletics,Browns
+900,2019-06-23,Stars,Whales
+901,2019-06-24,Yellow Jackets,Indians
+902,2019-06-24,Blaze,Twins
+903,2019-06-24,Gypsies,Grays
+904,2019-06-24,Reds,Colt .45s
+905,2019-06-24,Captains,Pelicans
+906,2019-06-24,River Dogs,Knights
+907,2019-06-24,Pilots,Firebirds
+908,2019-06-24,Pilgrims,Bandits
+909,2019-06-24,Expos,Mudhens
+910,2019-06-24,Highlanders,Monarchs
+911,2019-06-24,Athletics,Browns
+912,2019-06-24,Stars,Whales
+913,2019-06-25,Yellow Jackets,Indians
+914,2019-06-25,Blaze,Twins
+915,2019-06-25,Gypsies,Grays
+916,2019-06-25,Reds,Colt .45s
+917,2019-06-25,Captains,Pelicans
+918,2019-06-25,River Dogs,Knights
+919,2019-06-25,Pilots,Firebirds
+920,2019-06-25,Pilgrims,Bandits
+921,2019-06-25,Expos,Mudhens
+922,2019-06-25,Highlanders,Monarchs
+923,2019-06-25,Athletics,Browns
+924,2019-06-25,Stars,Whales
+925,2019-06-26,Monarchs,Expos
+926,2019-06-26,Blaze,Knights
+927,2019-06-26,Pelicans,Gypsies
+928,2019-06-26,Firebirds,Indians
+929,2019-06-26,Stars,Browns
+930,2019-06-26,Highlanders,River Dogs
+931,2019-06-26,Pilgrims,Athletics
+932,2019-06-26,Grays,Twins
+933,2019-06-26,Captains,Mudhens
+934,2019-06-26,Bandits,Colt .45s
+935,2019-06-26,Whales,Yellow Jackets
+936,2019-06-26,Reds,Pilots
+937,2019-06-27,Monarchs,Expos
+938,2019-06-27,Blaze,Knights
+939,2019-06-27,Pelicans,Gypsies
+940,2019-06-27,Firebirds,Indians
+941,2019-06-27,Stars,Browns
+942,2019-06-27,Highlanders,River Dogs
+943,2019-06-27,Pilgrims,Athletics
+944,2019-06-27,Grays,Twins
+945,2019-06-27,Captains,Mudhens
+946,2019-06-27,Bandits,Colt .45s
+947,2019-06-27,Whales,Yellow Jackets
+948,2019-06-27,Reds,Pilots
+949,2019-06-28,Monarchs,Expos
+950,2019-06-28,Blaze,Knights
+951,2019-06-28,Pelicans,Gypsies
+952,2019-06-28,Firebirds,Indians
+953,2019-06-28,Stars,Browns
+954,2019-06-28,Highlanders,River Dogs
+955,2019-06-28,Pilgrims,Athletics
+956,2019-06-28,Grays,Twins
+957,2019-06-28,Captains,Mudhens
+958,2019-06-28,Bandits,Colt .45s
+959,2019-06-28,Whales,Yellow Jackets
+960,2019-06-28,Reds,Pilots
+961,2019-06-29,Blaze,Captains
+962,2019-06-29,Mudhens,Gypsies
+963,2019-06-29,Expos,River Dogs
+964,2019-06-29,Browns,Yellow Jackets
+965,2019-06-29,Colt .45s,Firebirds
+966,2019-06-29,Highlanders,Knights
+967,2019-06-29,Twins,Monarchs
+968,2019-06-29,Grays,Pelicans
+969,2019-06-29,Stars,Pilgrims
+970,2019-06-29,Whales,Indians
+971,2019-06-29,Pilots,Athletics
+972,2019-06-29,Reds,Bandits
+973,2019-06-30,Blaze,Captains
+974,2019-06-30,Mudhens,Gypsies
+975,2019-06-30,Expos,River Dogs
+976,2019-06-30,Browns,Yellow Jackets
+977,2019-06-30,Colt .45s,Firebirds
+978,2019-06-30,Highlanders,Knights
+979,2019-06-30,Twins,Monarchs
+980,2019-06-30,Grays,Pelicans
+981,2019-06-30,Stars,Pilgrims
+982,2019-06-30,Whales,Indians
+983,2019-06-30,Pilots,Athletics
+984,2019-06-30,Reds,Bandits
+985,2019-07-01,Blaze,Captains
+986,2019-07-01,Mudhens,Gypsies
+987,2019-07-01,Expos,River Dogs
+988,2019-07-01,Browns,Yellow Jackets
+989,2019-07-01,Colt .45s,Firebirds
+990,2019-07-01,Highlanders,Knights
+991,2019-07-01,Twins,Monarchs
+992,2019-07-01,Grays,Pelicans
+993,2019-07-01,Stars,Pilgrims
+994,2019-07-01,Whales,Indians
+995,2019-07-01,Pilots,Athletics
+996,2019-07-01,Reds,Bandits
+997,2019-07-02,Indians,Stars
+998,2019-07-02,Yellow Jackets,Athletics
+999,2019-07-02,Expos,Blaze
+1000,2019-07-02,Pelicans,Mudhens
+1001,2019-07-02,Grays,River Dogs
+1002,2019-07-02,Captains,Knights
+1003,2019-07-02,Pilgrims,Bandits
+1004,2019-07-02,Browns,Firebirds
+1005,2019-07-02,Gypsies,Twins
+1006,2019-07-02,Colt .45s,Reds
+1007,2019-07-02,Whales,Pilots
+1008,2019-07-02,Monarchs,Highlanders
+1009,2019-07-03,Indians,Stars
+1010,2019-07-03,Yellow Jackets,Athletics
+1011,2019-07-03,Expos,Blaze
+1012,2019-07-03,Pelicans,Mudhens
+1013,2019-07-03,Grays,River Dogs
+1014,2019-07-03,Captains,Knights
+1015,2019-07-03,Pilgrims,Bandits
+1016,2019-07-03,Browns,Firebirds
+1017,2019-07-03,Gypsies,Twins
+1018,2019-07-03,Colt .45s,Reds
+1019,2019-07-03,Whales,Pilots
+1020,2019-07-03,Monarchs,Highlanders
+1021,2019-07-04,Indians,Stars
+1022,2019-07-04,Yellow Jackets,Athletics
+1023,2019-07-04,Expos,Blaze
+1024,2019-07-04,Pelicans,Mudhens
+1025,2019-07-04,Grays,River Dogs
+1026,2019-07-04,Captains,Knights
+1027,2019-07-04,Pilgrims,Bandits
+1028,2019-07-04,Browns,Firebirds
+1029,2019-07-04,Gypsies,Twins
+1030,2019-07-04,Colt .45s,Reds
+1031,2019-07-04,Whales,Pilots
+1032,2019-07-04,Monarchs,Highlanders
+1033,2019-07-05,Colt .45s,Whales
+1034,2019-07-05,Athletics,Bandits
+1035,2019-07-05,Stars,Pilgrims
+1036,2019-07-05,River Dogs,Monarchs
+1037,2019-07-05,Pelicans,Grays
+1038,2019-07-05,Browns,Pilots
+1039,2019-07-05,Gypsies,Highlanders
+1040,2019-07-06,Colt .45s,Whales
+1041,2019-07-06,Athletics,Bandits
+1042,2019-07-06,Stars,Pilgrims
+1043,2019-07-06,River Dogs,Monarchs
+1044,2019-07-06,Pelicans,Grays
+1045,2019-07-06,Browns,Pilots
+1046,2019-07-06,Gypsies,Highlanders
+1047,2019-07-07,Colt .45s,Whales
+1048,2019-07-07,Athletics,Bandits
+1049,2019-07-07,Stars,Pilgrims
+1050,2019-07-07,River Dogs,Monarchs
+1051,2019-07-07,Pelicans,Grays
+1052,2019-07-07,Browns,Pilots
+1053,2019-07-07,Gypsies,Highlanders
+1054,2019-07-08,Highlanders,Grays
+1055,2019-07-08,Knights,Pelicans
+1056,2019-07-08,Stars,Colt .45s
+1057,2019-07-08,Indians,Whales
+1058,2019-07-08,Gypsies,River Dogs
+1059,2019-07-08,Monarchs,Expos
+1060,2019-07-08,Captains,Blaze
+1061,2019-07-08,Firebirds,Pilots
+1062,2019-07-08,Yellow Jackets,Pilgrims
+1063,2019-07-08,Bandits,Reds
+1064,2019-07-08,Browns,Athletics
+1065,2019-07-08,Twins,Mudhens
+1066,2019-07-09,Highlanders,Grays
+1067,2019-07-09,Knights,Pelicans
+1068,2019-07-09,Stars,Colt .45s
+1069,2019-07-09,Indians,Whales
+1070,2019-07-09,Gypsies,River Dogs
+1071,2019-07-09,Monarchs,Expos
+1072,2019-07-09,Captains,Blaze
+1073,2019-07-09,Firebirds,Pilots
+1074,2019-07-09,Yellow Jackets,Pilgrims
+1075,2019-07-09,Bandits,Reds
+1076,2019-07-09,Browns,Athletics
+1077,2019-07-09,Twins,Mudhens
+1078,2019-07-10,Highlanders,Grays
+1079,2019-07-10,Knights,Pelicans
+1080,2019-07-10,Stars,Colt .45s
+1081,2019-07-10,Indians,Whales
+1082,2019-07-10,Gypsies,River Dogs
+1083,2019-07-10,Monarchs,Expos
+1084,2019-07-10,Captains,Blaze
+1085,2019-07-10,Firebirds,Pilots
+1086,2019-07-10,Yellow Jackets,Pilgrims
+1087,2019-07-10,Bandits,Reds
+1088,2019-07-10,Browns,Athletics
+1089,2019-07-10,Twins,Mudhens
+1090,2019-07-11,Mudhens,Captains
+1091,2019-07-11,Twins,Knights
+1092,2019-07-11,Indians,Reds
+1093,2019-07-11,Highlanders,Gypsies
+1094,2019-07-11,Yellow Jackets,Whales
+1095,2019-07-11,Browns,Pilgrims
+1096,2019-07-11,Stars,Pilots
+1097,2019-07-11,Firebirds,Athletics
+1098,2019-07-11,Blaze,Pelicans
+1099,2019-07-11,Monarchs,Grays
+1100,2019-07-11,Colt .45s,Bandits
+1101,2019-07-11,River Dogs,Expos
+1102,2019-07-12,Mudhens,Captains
+1103,2019-07-12,Twins,Knights
+1104,2019-07-12,Indians,Reds
+1105,2019-07-12,Highlanders,Gypsies
+1106,2019-07-12,Yellow Jackets,Whales
+1107,2019-07-12,Browns,Pilgrims
+1108,2019-07-12,Stars,Pilots
+1109,2019-07-12,Firebirds,Athletics
+1110,2019-07-12,Blaze,Pelicans
+1111,2019-07-12,Monarchs,Grays
+1112,2019-07-12,Colt .45s,Bandits
+1113,2019-07-12,River Dogs,Expos
+1114,2019-07-13,Mudhens,Captains
+1115,2019-07-13,Twins,Knights
+1116,2019-07-13,Indians,Reds
+1117,2019-07-13,Highlanders,Gypsies
+1118,2019-07-13,Yellow Jackets,Whales
+1119,2019-07-13,Browns,Pilgrims
+1120,2019-07-13,Stars,Pilots
+1121,2019-07-13,Firebirds,Athletics
+1122,2019-07-13,Blaze,Pelicans
+1123,2019-07-13,Monarchs,Grays
+1124,2019-07-13,Colt .45s,Bandits
+1125,2019-07-13,River Dogs,Expos
+1126,2019-07-14,Knights,Grays
+1127,2019-07-14,Stars,Indians
+1128,2019-07-14,Monarchs,Gypsies
+1129,2019-07-14,Blaze,Expos
+1130,2019-07-14,Bandits,Firebirds
+1131,2019-07-14,Pelicans,Highlanders
+1132,2019-07-14,Captains,Twins
+1133,2019-07-14,Yellow Jackets,Colt .45s
+1134,2019-07-14,Browns,Whales
+1135,2019-07-14,Pilgrims,Athletics
+1136,2019-07-14,River Dogs,Mudhens
+1137,2019-07-14,Reds,Pilots
+1138,2019-07-15,Knights,Grays
+1139,2019-07-15,Stars,Indians
+1140,2019-07-15,Monarchs,Gypsies
+1141,2019-07-15,Blaze,Expos
+1142,2019-07-15,Bandits,Firebirds
+1143,2019-07-15,Pelicans,Highlanders
+1144,2019-07-15,Captains,Twins
+1145,2019-07-15,Yellow Jackets,Colt .45s
+1146,2019-07-15,Browns,Whales
+1147,2019-07-15,Pilgrims,Athletics
+1148,2019-07-15,River Dogs,Mudhens
+1149,2019-07-15,Reds,Pilots
+1150,2019-07-16,Knights,Grays
+1151,2019-07-16,Stars,Indians
+1152,2019-07-16,Monarchs,Gypsies
+1153,2019-07-16,Blaze,Expos
+1154,2019-07-16,Bandits,Firebirds
+1155,2019-07-16,Pelicans,Highlanders
+1156,2019-07-16,Captains,Twins
+1157,2019-07-16,Yellow Jackets,Colt .45s
+1158,2019-07-16,Browns,Whales
+1159,2019-07-16,Pilgrims,Athletics
+1160,2019-07-16,River Dogs,Mudhens
+1161,2019-07-16,Reds,Pilots
+1162,2019-07-17,Pilgrims,Browns
+1163,2019-07-17,Expos,Grays
+1164,2019-07-17,Whales,Indians
+1165,2019-07-17,Athletics,Bandits
+1166,2019-07-17,Captains,River Dogs
+1167,2019-07-17,Blaze,Knights
+1168,2019-07-17,Mudhens,Highlanders
+1169,2019-07-17,Colt .45s,Reds
+1170,2019-07-17,Twins,Gypsies
+1171,2019-07-17,Firebirds,Pilots
+1172,2019-07-18,Pilgrims,Browns
+1173,2019-07-18,Expos,Grays
+1174,2019-07-18,Whales,Indians
+1175,2019-07-18,Athletics,Bandits
+1176,2019-07-18,Captains,River Dogs
+1177,2019-07-18,Blaze,Knights
+1178,2019-07-18,Mudhens,Highlanders
+1179,2019-07-18,Colt .45s,Reds
+1180,2019-07-18,Twins,Gypsies
+1181,2019-07-18,Firebirds,Pilots
+1182,2019-07-19,Pilgrims,Browns
+1183,2019-07-19,Expos,Grays
+1184,2019-07-19,Whales,Indians
+1185,2019-07-19,Athletics,Bandits
+1186,2019-07-19,Captains,River Dogs
+1187,2019-07-19,Blaze,Knights
+1188,2019-07-19,Mudhens,Highlanders
+1189,2019-07-19,Colt .45s,Reds
+1190,2019-07-19,Twins,Gypsies
+1191,2019-07-19,Firebirds,Pilots
+1192,2019-07-20,Indians,Colt .45s
+1193,2019-07-20,Mudhens,Twins
+1194,2019-07-20,Captains,Grays
+1195,2019-07-20,Knights,Highlanders
+1196,2019-07-20,Bandits,Pilgrims
+1197,2019-07-20,Pilots,Reds
+1198,2019-07-20,Whales,Athletics
+1199,2019-07-20,Pelicans,Expos
+1200,2019-07-20,Browns,Firebirds
+1201,2019-07-20,Monarchs,Gypsies
+1202,2019-07-20,Blaze,River Dogs
+1203,2019-07-20,Stars,Yellow Jackets
+1204,2019-07-21,Indians,Colt .45s
+1205,2019-07-21,Mudhens,Twins
+1206,2019-07-21,Captains,Grays
+1207,2019-07-21,Knights,Highlanders
+1208,2019-07-21,Bandits,Pilgrims
+1209,2019-07-21,Pilots,Reds
+1210,2019-07-21,Whales,Athletics
+1211,2019-07-21,Pelicans,Expos
+1212,2019-07-21,Browns,Firebirds
+1213,2019-07-21,Monarchs,Gypsies
+1214,2019-07-21,Blaze,River Dogs
+1215,2019-07-21,Stars,Yellow Jackets
+1216,2019-07-22,Indians,Colt .45s
+1217,2019-07-22,Mudhens,Twins
+1218,2019-07-22,Captains,Grays
+1219,2019-07-22,Knights,Highlanders
+1220,2019-07-22,Bandits,Pilgrims
+1221,2019-07-22,Pilots,Reds
+1222,2019-07-22,Whales,Athletics
+1223,2019-07-22,Pelicans,Expos
+1224,2019-07-22,Browns,Firebirds
+1225,2019-07-22,Monarchs,Gypsies
+1226,2019-07-22,Blaze,River Dogs
+1227,2019-07-22,Stars,Yellow Jackets
+1228,2019-07-26,Knights,Gypsies
+1229,2019-07-26,Grays,Highlanders
+1230,2019-07-26,Yellow Jackets,Pilots
+1231,2019-07-26,Pelicans,Twins
+1232,2019-07-26,Browns,Stars
+1233,2019-07-26,Athletics,Indians
+1234,2019-07-26,Monarchs,Blaze
+1235,2019-07-26,Bandits,Colt .45s
+1236,2019-07-26,River Dogs,Mudhens
+1237,2019-07-26,Reds,Pilgrims
+1238,2019-07-26,Captains,Expos
+1239,2019-07-26,Firebirds,Whales
+1240,2019-07-27,Knights,Gypsies
+1241,2019-07-27,Grays,Highlanders
+1242,2019-07-27,Yellow Jackets,Pilots
+1243,2019-07-27,Pelicans,Twins
+1244,2019-07-27,Browns,Stars
+1245,2019-07-27,Athletics,Indians
+1246,2019-07-27,Monarchs,Blaze
+1247,2019-07-27,Bandits,Colt .45s
+1248,2019-07-27,River Dogs,Mudhens
+1249,2019-07-27,Reds,Pilgrims
+1250,2019-07-27,Captains,Expos
+1251,2019-07-27,Firebirds,Whales
+1252,2019-07-28,Knights,Gypsies
+1253,2019-07-28,Grays,Highlanders
+1254,2019-07-28,Yellow Jackets,Pilots
+1255,2019-07-28,Pelicans,Twins
+1256,2019-07-28,Browns,Stars
+1257,2019-07-28,Athletics,Indians
+1258,2019-07-28,Monarchs,Blaze
+1259,2019-07-28,Bandits,Colt .45s
+1260,2019-07-28,River Dogs,Mudhens
+1261,2019-07-28,Reds,Pilgrims
+1262,2019-07-28,Captains,Expos
+1263,2019-07-28,Firebirds,Whales
+1264,2019-07-29,Pilgrims,Yellow Jackets
+1265,2019-07-29,River Dogs,Grays
+1266,2019-07-29,Pilots,Indians
+1267,2019-07-29,Gypsies,Captains
+1268,2019-07-29,Blaze,Highlanders
+1269,2019-07-29,Monarchs,Knights
+1270,2019-07-29,Firebirds,Athletics
+1271,2019-07-29,Colt .45s,Stars
+1272,2019-07-29,Mudhens,Pelicans
+1273,2019-07-29,Expos,Twins
+1274,2019-07-29,Whales,Reds
+1275,2019-07-30,Pilgrims,Yellow Jackets
+1276,2019-07-30,River Dogs,Grays
+1277,2019-07-30,Pilots,Indians
+1278,2019-07-30,Gypsies,Captains
+1279,2019-07-30,Blaze,Highlanders
+1280,2019-07-30,Monarchs,Knights
+1281,2019-07-30,Firebirds,Athletics
+1282,2019-07-30,Colt .45s,Stars
+1283,2019-07-30,Mudhens,Pelicans
+1284,2019-07-30,Expos,Twins
+1285,2019-07-30,Whales,Reds
+1286,2019-07-31,Pilgrims,Yellow Jackets
+1287,2019-07-31,River Dogs,Grays
+1288,2019-07-31,Pilots,Indians
+1289,2019-07-31,Gypsies,Captains
+1290,2019-07-31,Blaze,Highlanders
+1291,2019-07-31,Monarchs,Knights
+1292,2019-07-31,Firebirds,Athletics
+1293,2019-07-31,Colt .45s,Stars
+1294,2019-07-31,Mudhens,Pelicans
+1295,2019-07-31,Expos,Twins
+1296,2019-07-31,Whales,Reds
+1297,2019-08-01,Pelicans,Monarchs
+1298,2019-08-01,Blaze,River Dogs
+1299,2019-08-01,Gypsies,Mudhens
+1300,2019-08-01,Indians,Firebirds
+1301,2019-08-01,Pilots,Colt .45s
+1302,2019-08-01,Grays,Twins
+1303,2019-08-01,Pilgrims,Stars
+1304,2019-08-01,Captains,Knights
+1305,2019-08-01,Bandits,Yellow Jackets
+1306,2019-08-01,Athletics,Reds
+1307,2019-08-01,Whales,Browns
+1308,2019-08-01,Highlanders,Expos
+1309,2019-08-02,Pelicans,Monarchs
+1310,2019-08-02,Blaze,River Dogs
+1311,2019-08-02,Gypsies,Mudhens
+1312,2019-08-02,Indians,Firebirds
+1313,2019-08-02,Pilots,Colt .45s
+1314,2019-08-02,Grays,Twins
+1315,2019-08-02,Pilgrims,Stars
+1316,2019-08-02,Captains,Knights
+1317,2019-08-02,Bandits,Yellow Jackets
+1318,2019-08-02,Athletics,Reds
+1319,2019-08-02,Whales,Browns
+1320,2019-08-02,Highlanders,Expos
+1321,2019-08-03,Pelicans,Monarchs
+1322,2019-08-03,Blaze,River Dogs
+1323,2019-08-03,Gypsies,Mudhens
+1324,2019-08-03,Indians,Firebirds
+1325,2019-08-03,Pilots,Colt .45s
+1326,2019-08-03,Grays,Twins
+1327,2019-08-03,Pilgrims,Stars
+1328,2019-08-03,Captains,Knights
+1329,2019-08-03,Bandits,Yellow Jackets
+1330,2019-08-03,Athletics,Reds
+1331,2019-08-03,Whales,Browns
+1332,2019-08-03,Highlanders,Expos
+1333,2019-08-04,Bandits,Browns
+1334,2019-08-04,Knights,Blaze
+1335,2019-08-04,Grays,Mudhens
+1336,2019-08-04,Indians,Pilots
+1337,2019-08-04,Highlanders,Pelicans
+1338,2019-08-04,Pilgrims,Yellow Jackets
+1339,2019-08-04,Whales,Firebirds
+1340,2019-08-04,Gypsies,Monarchs
+1341,2019-08-04,Twins,River Dogs
+1342,2019-08-04,Stars,Reds
+1343,2019-08-04,Captains,Expos
+1344,2019-08-05,Bandits,Browns
+1345,2019-08-05,Knights,Blaze
+1346,2019-08-05,Grays,Mudhens
+1347,2019-08-05,Indians,Pilots
+1348,2019-08-05,Highlanders,Pelicans
+1349,2019-08-05,Pilgrims,Yellow Jackets
+1350,2019-08-05,Whales,Firebirds
+1351,2019-08-05,Gypsies,Monarchs
+1352,2019-08-05,Twins,River Dogs
+1353,2019-08-05,Stars,Reds
+1354,2019-08-05,Captains,Expos
+1355,2019-08-06,Bandits,Browns
+1356,2019-08-06,Knights,Blaze
+1357,2019-08-06,Grays,Mudhens
+1358,2019-08-06,Indians,Pilots
+1359,2019-08-06,Highlanders,Pelicans
+1360,2019-08-06,Pilgrims,Yellow Jackets
+1361,2019-08-06,Whales,Firebirds
+1362,2019-08-06,Gypsies,Monarchs
+1363,2019-08-06,Twins,River Dogs
+1364,2019-08-06,Stars,Reds
+1365,2019-08-06,Captains,Expos
+1366,2019-08-07,Stars,Athletics
+1367,2019-08-07,Yellow Jackets,Pilots
+1368,2019-08-07,Pelicans,Captains
+1369,2019-08-07,Reds,Browns
+1370,2019-08-07,Whales,Pilgrims
+1371,2019-08-07,Indians,Bandits
+1372,2019-08-07,Gypsies,Mudhens
+1373,2019-08-07,Highlanders,Twins
+1374,2019-08-07,Knights,Grays
+1375,2019-08-07,Monarchs,River Dogs
+1376,2019-08-07,Blaze,Expos
+1377,2019-08-07,Firebirds,Colt .45s
+1378,2019-08-08,Stars,Athletics
+1379,2019-08-08,Yellow Jackets,Pilots
+1380,2019-08-08,Pelicans,Captains
+1381,2019-08-08,Reds,Browns
+1382,2019-08-08,Whales,Pilgrims
+1383,2019-08-08,Indians,Bandits
+1384,2019-08-08,Gypsies,Mudhens
+1385,2019-08-08,Highlanders,Twins
+1386,2019-08-08,Knights,Grays
+1387,2019-08-08,Monarchs,River Dogs
+1388,2019-08-08,Blaze,Expos
+1389,2019-08-08,Firebirds,Colt .45s
+1390,2019-08-09,Stars,Athletics
+1391,2019-08-09,Yellow Jackets,Pilots
+1392,2019-08-09,Pelicans,Captains
+1393,2019-08-09,Reds,Browns
+1394,2019-08-09,Whales,Pilgrims
+1395,2019-08-09,Indians,Bandits
+1396,2019-08-09,Gypsies,Mudhens
+1397,2019-08-09,Highlanders,Twins
+1398,2019-08-09,Knights,Grays
+1399,2019-08-09,Monarchs,River Dogs
+1400,2019-08-09,Blaze,Expos
+1401,2019-08-09,Firebirds,Colt .45s
+1402,2019-08-10,Stars,Athletics
+1403,2019-08-10,Yellow Jackets,Pilots
+1404,2019-08-10,Pelicans,Captains
+1405,2019-08-10,Reds,Browns
+1406,2019-08-10,Whales,Pilgrims
+1407,2019-08-10,Indians,Bandits
+1408,2019-08-10,Gypsies,Mudhens
+1409,2019-08-10,Highlanders,Twins
+1410,2019-08-10,Knights,Grays
+1411,2019-08-10,Monarchs,River Dogs
+1412,2019-08-10,Blaze,Expos
+1413,2019-08-10,Firebirds,Colt .45s
+1414,2019-08-11,Yellow Jackets,Athletics
+1415,2019-08-11,Stars,Pilots
+1416,2019-08-11,Monarchs,Grays
+1417,2019-08-11,Mudhens,Blaze
+1418,2019-08-11,Captains,Highlanders
+1419,2019-08-11,Reds,Bandits
+1420,2019-08-11,Pelicans,Twins
+1421,2019-08-11,Pilgrims,Firebirds
+1422,2019-08-11,Colt .45s,Whales
+1423,2019-08-11,Expos,Gypsies
+1424,2019-08-11,River Dogs,Knights
+1425,2019-08-11,Browns,Indians
+1426,2019-08-12,Yellow Jackets,Athletics
+1427,2019-08-12,Stars,Pilots
+1428,2019-08-12,Monarchs,Grays
+1429,2019-08-12,Mudhens,Blaze
+1430,2019-08-12,Captains,Highlanders
+1431,2019-08-12,Reds,Bandits
+1432,2019-08-12,Pelicans,Twins
+1433,2019-08-12,Pilgrims,Firebirds
+1434,2019-08-12,Colt .45s,Whales
+1435,2019-08-12,Expos,Gypsies
+1436,2019-08-12,River Dogs,Knights
+1437,2019-08-12,Browns,Indians
+1438,2019-08-13,Yellow Jackets,Athletics
+1439,2019-08-13,Stars,Pilots
+1440,2019-08-13,Monarchs,Grays
+1441,2019-08-13,Mudhens,Blaze
+1442,2019-08-13,Captains,Highlanders
+1443,2019-08-13,Reds,Bandits
+1444,2019-08-13,Pelicans,Twins
+1445,2019-08-13,Pilgrims,Firebirds
+1446,2019-08-13,Colt .45s,Whales
+1447,2019-08-13,Expos,Gypsies
+1448,2019-08-13,River Dogs,Knights
+1449,2019-08-13,Browns,Indians
+1450,2019-08-14,Yellow Jackets,Athletics
+1451,2019-08-14,Stars,Pilots
+1452,2019-08-14,Monarchs,Grays
+1453,2019-08-14,Mudhens,Blaze
+1454,2019-08-14,Captains,Highlanders
+1455,2019-08-14,Reds,Bandits
+1456,2019-08-14,Pelicans,Twins
+1457,2019-08-14,Pilgrims,Firebirds
+1458,2019-08-14,Colt .45s,Whales
+1459,2019-08-14,Expos,Gypsies
+1460,2019-08-14,River Dogs,Knights
+1461,2019-08-14,Browns,Indians
+1462,2019-08-15,Knights,Monarchs
+1463,2019-08-15,River Dogs,Pelicans
+1464,2019-08-15,Mudhens,Expos
+1465,2019-08-15,Twins,Grays
+1466,2019-08-15,Gypsies,Blaze
+1467,2019-08-15,Browns,Stars
+1468,2019-08-15,Colt .45s,Indians
+1469,2019-08-15,Bandits,Pilgrims
+1470,2019-08-15,Yellow Jackets,Reds
+1471,2019-08-15,Whales,Athletics
+1472,2019-08-15,Pilots,Firebirds
+1473,2019-08-16,Knights,Monarchs
+1474,2019-08-16,River Dogs,Pelicans
+1475,2019-08-16,Mudhens,Expos
+1476,2019-08-16,Twins,Grays
+1477,2019-08-16,Gypsies,Blaze
+1478,2019-08-16,Browns,Stars
+1479,2019-08-16,Colt .45s,Indians
+1480,2019-08-16,Bandits,Pilgrims
+1481,2019-08-16,Yellow Jackets,Reds
+1482,2019-08-16,Whales,Athletics
+1483,2019-08-16,Pilots,Firebirds
+1484,2019-08-17,Knights,Monarchs
+1485,2019-08-17,River Dogs,Pelicans
+1486,2019-08-17,Mudhens,Expos
+1487,2019-08-17,Twins,Grays
+1488,2019-08-17,Gypsies,Blaze
+1489,2019-08-17,Browns,Stars
+1490,2019-08-17,Colt .45s,Indians
+1491,2019-08-17,Bandits,Pilgrims
+1492,2019-08-17,Yellow Jackets,Reds
+1493,2019-08-17,Whales,Athletics
+1494,2019-08-17,Pilots,Firebirds
+1495,2019-08-18,Grays,Mudhens
+1496,2019-08-18,Pilots,Browns
+1497,2019-08-18,Twins,Expos
+1498,2019-08-18,Firebirds,Colt .45s
+1499,2019-08-18,River Dogs,Blaze
+1500,2019-08-18,Indians,Pilgrims
+1501,2019-08-18,Stars,Reds
+1502,2019-08-18,Whales,Yellow Jackets
+1503,2019-08-18,Highlanders,Monarchs
+1504,2019-08-18,Knights,Captains
+1505,2019-08-18,Gypsies,Pelicans
+1506,2019-08-18,Bandits,Athletics
+1507,2019-08-19,Grays,Mudhens
+1508,2019-08-19,Pilots,Browns
+1509,2019-08-19,Twins,Expos
+1510,2019-08-19,Firebirds,Colt .45s
+1511,2019-08-19,River Dogs,Blaze
+1512,2019-08-19,Indians,Pilgrims
+1513,2019-08-19,Stars,Reds
+1514,2019-08-19,Whales,Yellow Jackets
+1515,2019-08-19,Highlanders,Monarchs
+1516,2019-08-19,Knights,Captains
+1517,2019-08-19,Gypsies,Pelicans
+1518,2019-08-19,Bandits,Athletics
+1519,2019-08-20,Grays,Mudhens
+1520,2019-08-20,Pilots,Browns
+1521,2019-08-20,Twins,Expos
+1522,2019-08-20,Firebirds,Colt .45s
+1523,2019-08-20,River Dogs,Blaze
+1524,2019-08-20,Indians,Pilgrims
+1525,2019-08-20,Stars,Reds
+1526,2019-08-20,Whales,Yellow Jackets
+1527,2019-08-20,Highlanders,Monarchs
+1528,2019-08-20,Knights,Captains
+1529,2019-08-20,Gypsies,Pelicans
+1530,2019-08-20,Bandits,Athletics
+1531,2019-08-24,Colt .45s,Pilots
+1532,2019-08-24,Athletics,Yellow Jackets
+1533,2019-08-24,Firebirds,Bandits
+1534,2019-08-24,Gypsies,Highlanders
+1535,2019-08-24,Grays,Captains
+1536,2019-08-24,Indians,Browns
+1537,2019-08-24,Blaze,Mudhens
+1538,2019-08-24,River Dogs,Twins
+1539,2019-08-24,Reds,Stars
+1540,2019-08-24,Knights,Expos
+1541,2019-08-24,Whales,Pilgrims
+1542,2019-08-24,Pelicans,Monarchs
+1543,2019-08-25,Colt .45s,Pilots
+1544,2019-08-25,Athletics,Yellow Jackets
+1545,2019-08-25,Firebirds,Bandits
+1546,2019-08-25,Gypsies,Highlanders
+1547,2019-08-25,Grays,Captains
+1548,2019-08-25,Indians,Browns
+1549,2019-08-25,Blaze,Mudhens
+1550,2019-08-25,River Dogs,Twins
+1551,2019-08-25,Reds,Stars
+1552,2019-08-25,Knights,Expos
+1553,2019-08-25,Whales,Pilgrims
+1554,2019-08-25,Pelicans,Monarchs
+1555,2019-08-26,Colt .45s,Pilots
+1556,2019-08-26,Athletics,Yellow Jackets
+1557,2019-08-26,Firebirds,Bandits
+1558,2019-08-26,Gypsies,Highlanders
+1559,2019-08-26,Grays,Captains
+1560,2019-08-26,Indians,Browns
+1561,2019-08-26,Blaze,Mudhens
+1562,2019-08-26,River Dogs,Twins
+1563,2019-08-26,Reds,Stars
+1564,2019-08-26,Knights,Expos
+1565,2019-08-26,Whales,Pilgrims
+1566,2019-08-26,Pelicans,Monarchs
+1567,2019-08-27,Captains,Blaze
+1568,2019-08-27,Reds,Yellow Jackets
+1569,2019-08-27,Colt .45s,Bandits
+1570,2019-08-27,Expos,Twins
+1571,2019-08-27,Athletics,Stars
+1572,2019-08-27,River Dogs,Highlanders
+1573,2019-08-27,Mudhens,Monarchs
+1574,2019-08-27,Pelicans,Knights
+1575,2019-08-27,Indians,Pilots
+1576,2019-08-27,Firebirds,Browns
+1577,2019-08-28,Captains,Blaze
+1578,2019-08-28,Reds,Yellow Jackets
+1579,2019-08-28,Colt .45s,Bandits
+1580,2019-08-28,Expos,Twins
+1581,2019-08-28,Athletics,Stars
+1582,2019-08-28,River Dogs,Highlanders
+1583,2019-08-28,Mudhens,Monarchs
+1584,2019-08-28,Pelicans,Knights
+1585,2019-08-28,Indians,Pilots
+1586,2019-08-28,Firebirds,Browns
+1587,2019-08-29,Captains,Blaze
+1588,2019-08-29,Reds,Yellow Jackets
+1589,2019-08-29,Colt .45s,Bandits
+1590,2019-08-29,Expos,Twins
+1591,2019-08-29,Athletics,Stars
+1592,2019-08-29,River Dogs,Highlanders
+1593,2019-08-29,Mudhens,Monarchs
+1594,2019-08-29,Pelicans,Knights
+1595,2019-08-29,Indians,Pilots
+1596,2019-08-29,Firebirds,Browns
+1597,2019-08-30,Stars,Yellow Jackets
+1598,2019-08-30,Athletics,Pilots
+1599,2019-08-30,Knights,Monarchs
+1600,2019-08-30,River Dogs,Grays
+1601,2019-08-30,Twins,Highlanders
+1602,2019-08-30,Captains,Pelicans
+1603,2019-08-30,Blaze,Expos
+1604,2019-08-30,Colt .45s,Pilgrims
+1605,2019-08-30,Whales,Firebirds
+1606,2019-08-30,Browns,Reds
+1607,2019-08-30,Indians,Bandits
+1608,2019-08-30,Mudhens,Gypsies
+1609,2019-08-31,Stars,Yellow Jackets
+1610,2019-08-31,Athletics,Pilots
+1611,2019-08-31,Knights,Monarchs
+1612,2019-08-31,River Dogs,Grays
+1613,2019-08-31,Twins,Highlanders
+1614,2019-08-31,Captains,Pelicans
+1615,2019-08-31,Blaze,Expos
+1616,2019-08-31,Colt .45s,Pilgrims
+1617,2019-08-31,Whales,Firebirds
+1618,2019-08-31,Browns,Reds
+1619,2019-08-31,Indians,Bandits
+1620,2019-08-31,Mudhens,Gypsies
+1621,2019-09-01,Stars,Yellow Jackets
+1622,2019-09-01,Athletics,Pilots
+1623,2019-09-01,Knights,Monarchs
+1624,2019-09-01,River Dogs,Grays
+1625,2019-09-01,Twins,Highlanders
+1626,2019-09-01,Captains,Pelicans
+1627,2019-09-01,Blaze,Expos
+1628,2019-09-01,Colt .45s,Pilgrims
+1629,2019-09-01,Whales,Firebirds
+1630,2019-09-01,Browns,Reds
+1631,2019-09-01,Indians,Bandits
+1632,2019-09-01,Mudhens,Gypsies
+1633,2019-09-02,Stars,Yellow Jackets
+1634,2019-09-02,Athletics,Pilots
+1635,2019-09-02,Knights,Monarchs
+1636,2019-09-02,River Dogs,Grays
+1637,2019-09-02,Twins,Highlanders
+1638,2019-09-02,Captains,Pelicans
+1639,2019-09-02,Blaze,Expos
+1640,2019-09-02,Colt .45s,Pilgrims
+1641,2019-09-02,Whales,Firebirds
+1642,2019-09-02,Browns,Reds
+1643,2019-09-02,Indians,Bandits
+1644,2019-09-02,Mudhens,Gypsies
+1645,2019-09-03,Colt .45s,Stars
+1646,2019-09-03,Bandits,Firebirds
+1647,2019-09-03,Pilots,Reds
+1648,2019-09-03,Grays,Knights
+1649,2019-09-03,Yellow Jackets,Whales
+1650,2019-09-03,Gypsies,Pelicans
+1651,2019-09-03,Twins,Blaze
+1652,2019-09-03,Highlanders,Expos
+1653,2019-09-03,Mudhens,Monarchs
+1654,2019-09-03,Athletics,Indians
+1655,2019-09-03,Browns,Pilgrims
+1656,2019-09-03,River Dogs,Captains
+1657,2019-09-04,Colt .45s,Stars
+1658,2019-09-04,Bandits,Firebirds
+1659,2019-09-04,Pilots,Reds
+1660,2019-09-04,Grays,Knights
+1661,2019-09-04,Yellow Jackets,Whales
+1662,2019-09-04,Gypsies,Pelicans
+1663,2019-09-04,Twins,Blaze
+1664,2019-09-04,Highlanders,Expos
+1665,2019-09-04,Mudhens,Monarchs
+1666,2019-09-04,Athletics,Indians
+1667,2019-09-04,Browns,Pilgrims
+1668,2019-09-04,River Dogs,Captains
+1669,2019-09-05,Colt .45s,Stars
+1670,2019-09-05,Bandits,Firebirds
+1671,2019-09-05,Pilots,Reds
+1672,2019-09-05,Grays,Knights
+1673,2019-09-05,Yellow Jackets,Whales
+1674,2019-09-05,Gypsies,Pelicans
+1675,2019-09-05,Twins,Blaze
+1676,2019-09-05,Highlanders,Expos
+1677,2019-09-05,Mudhens,Monarchs
+1678,2019-09-05,Athletics,Indians
+1679,2019-09-05,Browns,Pilgrims
+1680,2019-09-05,River Dogs,Captains
+1681,2019-09-06,Twins,Captains
+1682,2019-09-06,Stars,Athletics
+1683,2019-09-06,Pilots,Yellow Jackets
+1684,2019-09-06,Pelicans,Highlanders
+1685,2019-09-06,Grays,Monarchs
+1686,2019-09-06,Browns,Bandits
+1687,2019-09-06,Pilgrims,Whales
+1688,2019-09-06,Mudhens,Gypsies
+1689,2019-09-06,Expos,Blaze
+1690,2019-09-06,River Dogs,Knights
+1691,2019-09-06,Colt .45s,Firebirds
+1692,2019-09-06,Reds,Indians
+1693,2019-09-07,Twins,Captains
+1694,2019-09-07,Stars,Athletics
+1695,2019-09-07,Pilots,Yellow Jackets
+1696,2019-09-07,Pelicans,Highlanders
+1697,2019-09-07,Grays,Monarchs
+1698,2019-09-07,Browns,Bandits
+1699,2019-09-07,Pilgrims,Whales
+1700,2019-09-07,Mudhens,Gypsies
+1701,2019-09-07,Expos,Blaze
+1702,2019-09-07,River Dogs,Knights
+1703,2019-09-07,Colt .45s,Firebirds
+1704,2019-09-07,Reds,Indians
+1705,2019-09-08,Twins,Captains
+1706,2019-09-08,Stars,Athletics
+1707,2019-09-08,Pilots,Yellow Jackets
+1708,2019-09-08,Pelicans,Highlanders
+1709,2019-09-08,Grays,Monarchs
+1710,2019-09-08,Browns,Bandits
+1711,2019-09-08,Pilgrims,Whales
+1712,2019-09-08,Mudhens,Gypsies
+1713,2019-09-08,Expos,Blaze
+1714,2019-09-08,River Dogs,Knights
+1715,2019-09-08,Colt .45s,Firebirds
+1716,2019-09-08,Reds,Indians
+1717,2019-09-09,Twins,Captains
+1718,2019-09-09,Stars,Athletics
+1719,2019-09-09,Pilots,Yellow Jackets
+1720,2019-09-09,Pelicans,Highlanders
+1721,2019-09-09,Grays,Monarchs
+1722,2019-09-09,Browns,Bandits
+1723,2019-09-09,Pilgrims,Whales
+1724,2019-09-09,Mudhens,Gypsies
+1725,2019-09-09,Expos,Blaze
+1726,2019-09-09,River Dogs,Knights
+1727,2019-09-09,Colt .45s,Firebirds
+1728,2019-09-09,Reds,Indians
+1729,2019-09-10,Grays,Expos
+1730,2019-09-10,Stars,Indians
+1731,2019-09-10,Captains,Gypsies
+1732,2019-09-10,Knights,Twins
+1733,2019-09-10,River Dogs,Pelicans
+1734,2019-09-10,Mudhens,Highlanders
+1735,2019-09-10,Bandits,Athletics
+1736,2019-09-10,Firebirds,Yellow Jackets
+1737,2019-09-10,Browns,Pilots
+1738,2019-09-10,Blaze,Monarchs
+1739,2019-09-10,Colt .45s,Pilgrims
+1740,2019-09-10,Reds,Whales
+1741,2019-09-11,Grays,Expos
+1742,2019-09-11,Stars,Indians
+1743,2019-09-11,Captains,Gypsies
+1744,2019-09-11,Knights,Twins
+1745,2019-09-11,River Dogs,Pelicans
+1746,2019-09-11,Mudhens,Highlanders
+1747,2019-09-11,Bandits,Athletics
+1748,2019-09-11,Firebirds,Yellow Jackets
+1749,2019-09-11,Browns,Pilots
+1750,2019-09-11,Blaze,Monarchs
+1751,2019-09-11,Colt .45s,Pilgrims
+1752,2019-09-11,Reds,Whales
+1753,2019-09-12,Grays,Expos
+1754,2019-09-12,Stars,Indians
+1755,2019-09-12,Captains,Gypsies
+1756,2019-09-12,Knights,Twins
+1757,2019-09-12,River Dogs,Pelicans
+1758,2019-09-12,Mudhens,Highlanders
+1759,2019-09-12,Bandits,Athletics
+1760,2019-09-12,Firebirds,Yellow Jackets
+1761,2019-09-12,Browns,Pilots
+1762,2019-09-12,Blaze,Monarchs
+1763,2019-09-12,Colt .45s,Pilgrims
+1764,2019-09-12,Reds,Whales
+1765,2019-09-13,Colt .45s,Browns
+1766,2019-09-13,Yellow Jackets,Reds
+1767,2019-09-13,Expos,Knights
+1768,2019-09-13,Bandits,Pilots
+1769,2019-09-13,Twins,Pelicans
+1770,2019-09-13,Grays,Gypsies
+1771,2019-09-13,Indians,Stars
+1772,2019-09-13,Highlanders,River Dogs
+1773,2019-09-13,Mudhens,Captains
+1774,2019-09-13,Monarchs,Blaze
+1775,2019-09-13,Firebirds,Pilgrims
+1776,2019-09-13,Athletics,Whales
+1777,2019-09-14,Colt .45s,Browns
+1778,2019-09-14,Yellow Jackets,Reds
+1779,2019-09-14,Expos,Knights
+1780,2019-09-14,Bandits,Pilots
+1781,2019-09-14,Twins,Pelicans
+1782,2019-09-14,Grays,Gypsies
+1783,2019-09-14,Indians,Stars
+1784,2019-09-14,Highlanders,River Dogs
+1785,2019-09-14,Mudhens,Captains
+1786,2019-09-14,Monarchs,Blaze
+1787,2019-09-14,Firebirds,Pilgrims
+1788,2019-09-14,Athletics,Whales
+1789,2019-09-15,Colt .45s,Browns
+1790,2019-09-15,Yellow Jackets,Reds
+1791,2019-09-15,Expos,Knights
+1792,2019-09-15,Bandits,Pilots
+1793,2019-09-15,Twins,Pelicans
+1794,2019-09-15,Grays,Gypsies
+1795,2019-09-15,Indians,Stars
+1796,2019-09-15,Highlanders,River Dogs
+1797,2019-09-15,Mudhens,Captains
+1798,2019-09-15,Monarchs,Blaze
+1799,2019-09-15,Firebirds,Pilgrims
+1800,2019-09-15,Athletics,Whales
+1801,2019-09-16,Blaze,Captains
+1802,2019-09-16,Highlanders,Twins
+1803,2019-09-16,Colt .45s,Yellow Jackets
+1804,2019-09-16,Expos,River Dogs
+1805,2019-09-16,Browns,Indians
+1806,2019-09-16,Knights,Gypsies
+1807,2019-09-16,Stars,Athletics
+1808,2019-09-16,Mudhens,Grays
+1809,2019-09-16,Pilgrims,Pilots
+1810,2019-09-16,Whales,Bandits
+1811,2019-09-16,Monarchs,Pelicans
+1812,2019-09-16,Reds,Firebirds
+1813,2019-09-17,Blaze,Captains
+1814,2019-09-17,Highlanders,Twins
+1815,2019-09-17,Colt .45s,Yellow Jackets
+1816,2019-09-17,Expos,River Dogs
+1817,2019-09-17,Browns,Indians
+1818,2019-09-17,Knights,Gypsies
+1819,2019-09-17,Stars,Athletics
+1820,2019-09-17,Mudhens,Grays
+1821,2019-09-17,Pilgrims,Pilots
+1822,2019-09-17,Whales,Bandits
+1823,2019-09-17,Monarchs,Pelicans
+1824,2019-09-17,Reds,Firebirds
+1825,2019-09-18,Blaze,Captains
+1826,2019-09-18,Highlanders,Twins
+1827,2019-09-18,Colt .45s,Yellow Jackets
+1828,2019-09-18,Expos,River Dogs
+1829,2019-09-18,Browns,Indians
+1830,2019-09-18,Knights,Gypsies
+1831,2019-09-18,Stars,Athletics
+1832,2019-09-18,Mudhens,Grays
+1833,2019-09-18,Pilgrims,Pilots
+1834,2019-09-18,Whales,Bandits
+1835,2019-09-18,Monarchs,Pelicans
+1836,2019-09-18,Reds,Firebirds
+1837,2019-09-19,Expos,Highlanders
+1838,2019-09-19,Indians,Athletics
+1839,2019-09-19,Knights,Captains
+1840,2019-09-19,Pilots,Pilgrims
+1841,2019-09-19,River Dogs,Gypsies
+1842,2019-09-19,Monarchs,Mudhens
+1843,2019-09-19,Stars,Bandits
+1844,2019-09-19,Yellow Jackets,Browns
+1845,2019-09-19,Twins,Grays
+1846,2019-09-19,Pelicans,Blaze
+1847,2019-09-19,Firebirds,Reds
+1848,2019-09-19,Whales,Colt .45s
+1849,2019-09-20,Expos,Highlanders
+1850,2019-09-20,Indians,Athletics
+1851,2019-09-20,Knights,Captains
+1852,2019-09-20,Pilots,Pilgrims
+1853,2019-09-20,River Dogs,Gypsies
+1854,2019-09-20,Monarchs,Mudhens
+1855,2019-09-20,Stars,Bandits
+1856,2019-09-20,Yellow Jackets,Browns
+1857,2019-09-20,Twins,Grays
+1858,2019-09-20,Pelicans,Blaze
+1859,2019-09-20,Firebirds,Reds
+1860,2019-09-20,Whales,Colt .45s
+1861,2019-09-21,Expos,Highlanders
+1862,2019-09-21,Indians,Athletics
+1863,2019-09-21,Knights,Captains
+1864,2019-09-21,Pilots,Pilgrims
+1865,2019-09-21,River Dogs,Gypsies
+1866,2019-09-21,Monarchs,Mudhens
+1867,2019-09-21,Stars,Bandits
+1868,2019-09-21,Yellow Jackets,Browns
+1869,2019-09-21,Twins,Grays
+1870,2019-09-21,Pelicans,Blaze
+1871,2019-09-21,Firebirds,Reds
+1872,2019-09-21,Whales,Colt .45s
+1873,2019-09-22,Bandits,Stars
+1874,2019-09-22,Reds,Colt .45s
+1875,2019-09-22,Browns,Yellow Jackets
+1876,2019-09-22,Grays,Blaze
+1877,2019-09-22,Knights,River Dogs
+1878,2019-09-22,Pelicans,Gypsies
+1879,2019-09-22,Firebirds,Indians
+1880,2019-09-22,Highlanders,Captains
+1881,2019-09-22,Monarchs,Mudhens
+1882,2019-09-22,Athletics,Pilgrims
+1883,2019-09-22,Pilots,Whales
+1884,2019-09-22,Twins,Expos
+1885,2019-09-23,Bandits,Stars
+1886,2019-09-23,Reds,Colt .45s
+1887,2019-09-23,Browns,Yellow Jackets
+1888,2019-09-23,Grays,Blaze
+1889,2019-09-23,Knights,River Dogs
+1890,2019-09-23,Pelicans,Gypsies
+1891,2019-09-23,Firebirds,Indians
+1892,2019-09-23,Highlanders,Captains
+1893,2019-09-23,Monarchs,Mudhens
+1894,2019-09-23,Athletics,Pilgrims
+1895,2019-09-23,Pilots,Whales
+1896,2019-09-23,Twins,Expos
+1897,2019-09-24,Bandits,Stars
+1898,2019-09-24,Reds,Colt .45s
+1899,2019-09-24,Browns,Yellow Jackets
+1900,2019-09-24,Grays,Blaze
+1901,2019-09-24,Knights,River Dogs
+1902,2019-09-24,Pelicans,Gypsies
+1903,2019-09-24,Firebirds,Indians
+1904,2019-09-24,Highlanders,Captains
+1905,2019-09-24,Monarchs,Mudhens
+1906,2019-09-24,Athletics,Pilgrims
+1907,2019-09-24,Pilots,Whales
+1908,2019-09-24,Twins,Expos
+1909,2019-09-25,Expos,Gypsies
+1910,2019-09-25,Blaze,Grays
+1911,2019-09-25,Monarchs,Twins
+1912,2019-09-25,Highlanders,Mudhens
+1913,2019-09-25,Bandits,Indians
+1914,2019-09-25,Knights,Pelicans
+1915,2019-09-25,Pilots,Yellow Jackets
+1916,2019-09-25,Whales,Browns
+1917,2019-09-25,Firebirds,Stars
+1918,2019-09-25,Reds,Athletics
+1919,2019-09-25,Pilgrims,Colt .45s
+1920,2019-09-25,Captains,River Dogs
+1921,2019-09-26,Expos,Gypsies
+1922,2019-09-26,Blaze,Grays
+1923,2019-09-26,Monarchs,Twins
+1924,2019-09-26,Highlanders,Mudhens
+1925,2019-09-26,Bandits,Indians
+1926,2019-09-26,Knights,Pelicans
+1927,2019-09-26,Pilots,Yellow Jackets
+1928,2019-09-26,Whales,Browns
+1929,2019-09-26,Firebirds,Stars
+1930,2019-09-26,Reds,Athletics
+1931,2019-09-26,Pilgrims,Colt .45s
+1932,2019-09-26,Captains,River Dogs
+1933,2019-09-27,Expos,Gypsies
+1934,2019-09-27,Blaze,Grays
+1935,2019-09-27,Monarchs,Twins
+1936,2019-09-27,Highlanders,Mudhens
+1937,2019-09-27,Bandits,Indians
+1938,2019-09-27,Knights,Pelicans
+1939,2019-09-27,Pilots,Yellow Jackets
+1940,2019-09-27,Whales,Browns
+1941,2019-09-27,Firebirds,Stars
+1942,2019-09-27,Reds,Athletics
+1943,2019-09-27,Pilgrims,Colt .45s
+1944,2019-09-27,Captains,River Dogs
