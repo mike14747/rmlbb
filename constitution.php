@@ -3,7 +3,15 @@ require_once('connections/conn.php');
 include('logged_in_check.php');
 include('components/header/header.php');
 include('components/navBar/navBar.php');
+?>
 
+<style>
+p {margin-top:0;margin-bottom:0;}
+ol {margin-top:0;margin-bottom:0;}
+ul {margin-top:0;margin-bottom:0;}
+</style>
+
+<?php
 $query_constitution = $conn->query("SELECT * FROM sitepages WHERE page_id=1");
 while ($result_constitution = $query_constitution->fetch_assoc()) {
     echo '<h2>' . $result_constitution['page_header'] . '</h2>';

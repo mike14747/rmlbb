@@ -21,7 +21,7 @@ echo '<form action="login_check.php" method="post">';
 echo '<p class="my-1">Username:</p>';
 echo '<input class="mb-4" type="text" name="username" value="" />';
 echo '<p class="my-1">Password:</p>';
-echo '<input class="mb-5" type="password" name="password" value="" />';
+echo '<input class="mb-4" type="password" name="password" value="" /><br />';
 echo '<input type="submit" name="login" value="Log In" />';
 echo '</form>';
 echo '</div>';
