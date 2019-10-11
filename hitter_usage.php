@@ -26,7 +26,7 @@ if (isset($get_sort)) {
 } else {
     $query_hitter_usage = $conn->query("SELECT * FROM hitter_usage ORDER BY rml_team ASC, hitter_name ASC");
 }
-echo '<div class="centered">';
+echo '<div class="text-center">';
 echo '<br /><span class="t12">(Clicking on certain column headers will sort the data by that column.)</span><br />';
 echo '</div>';
 echo '<table class="roster"><tr>';
