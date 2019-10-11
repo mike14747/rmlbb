@@ -25,8 +25,8 @@ if ($result_settings['display_recent'] == 1) {
         }
         echo '<span class="small text-secondary">AUTHOR: </span>' . $result_posts['username'] . '<br />';
         echo '<span class="small text-secondary">MESSAGE: </span>';
-        // save message text and bbcode to a variable, then remove the bbcode
-        $original_message_text = $conn->real_escape_string($result_posts['post_text']);
+        // save message text and bbcode to a variable, then remove the bbcode and carriage returns
+        $original_message_text = $conn->real_escape_string(strip_tags(str_replace("\n", " ", $result_posts['post_text'])));
         $pattern = '~\[[^]]+]~';
         $replace = '';
         $cleaned_message_text = preg_replace($pattern, $replace, $original_message_text);
