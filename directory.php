@@ -118,5 +118,6 @@ while ($results_managers = $query_managers->fetch_assoc()) {
 }
 $query_managers->free_result();
 echo '</div>';
+echo '</div>';
 
 include('components/footer/footer.php');
