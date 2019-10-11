@@ -1,5 +1,5 @@
 <?php
-echo '<nav>';
+echo '<nav class="my-3 d-flex align-items-center justify-content-center">';
 echo '<ul>';
     // current season dropdown
     include('currentSeasonDropdown/currentSeasonDropdown.php');

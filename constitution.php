@@ -6,9 +6,20 @@ include('components/navBar/navBar.php');
 ?>
 
 <style>
-p {margin-top:0;margin-bottom:0;}
-ol {margin-top:0;margin-bottom:0;}
-ul {margin-top:0;margin-bottom:0;}
+    p {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    ol {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    ul {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
 </style>
 
 <?php
