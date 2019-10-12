@@ -4,7 +4,17 @@
 <head>
     <meta charset="utf-8">
     <title>RML Baseball</title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"> -->
+    <link rel="stylesheet" href="css/bs4_backgrounds.css" type="text/css" />
+    <link rel="stylesheet" href="css/bs4_base.css" type="text/css" />
+    <link rel="stylesheet" href="css/bs4_borders.css" type="text/css" />
+    <link rel="stylesheet" href="css/bs4_display.css" type="text/css" />
+    <link rel="stylesheet" href="css/bs4_flexbox.css" type="text/css" />
+    <link rel="stylesheet" href="css/bs4_float_position_overflow.css" type="text/css" />
+    <link rel="stylesheet" href="css/bs4_margins_padding.css" type="text/css" />
+    <link rel="stylesheet" href="css/bs4_sizing.css" type="text/css" />
+    <link rel="stylesheet" href="css/bs4_tables.css" type="text/css" />
+    <link rel="stylesheet" href="css/bs4_text.css" type="text/css" />
     <link rel="stylesheet" href="css/main.css?v=1.1" type="text/css" />
 </head>
 
