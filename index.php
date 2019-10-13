@@ -15,12 +15,7 @@ include('components/eventsBox/eventsBox.php');
 include('components/recentPosts/recentPosts.php');
 // start Latest RML News section
 // get user input of days to display if it exists or set it to the default of 60 if it doesn't exist
-if (isset($get_days)) {
-    $news_days = $get_days;
-} else {
-    $news_days = 60;
-}
-// display latest news header
+$news_days = request_var('days', 60) ? request_var('days', 60) : 60;
 echo '<h2>RML NEWS</h2>';
 // set the options of what day numbers should appear as links to an array
 $select_days = array(30, 60, 90, 365);

@@ -16,9 +16,6 @@ if ($conn->connect_error) {
 }
 
 // sanitize all user input and save their values to variables
-if (isset($_GET['days'])) {
-    $get_days = (int)$_GET['days'];
-}
 if (isset($_GET['view'])) {
     $get_view = $conn->real_escape_string($_GET['view']);
 }

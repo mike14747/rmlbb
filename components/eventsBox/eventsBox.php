@@ -7,35 +7,31 @@ if ($result_settings['display_events'] == 1) {
     $query_date->free_result();
     // select events whose date is >= to the current date and is also <= the event interval in the settings table
     $query_events = $conn->query("SELECT eventdesc, DATE_FORMAT(eventdate, '%b-%d, %Y') AS eventdate1 FROM events WHERE (eventdate >= CURDATE()) AND (eventdate <= DATE_ADD(CURDATE(), INTERVAL {$result_settings['event_interval']} DAY)) ORDER BY eventdate ASC");
-    // start row background alternation variables
-    $alternate = 1;
-    $bgcolor1 = 'background-color: #f3f3f3';
-    $bgcolor2 = 'background-color: #e3e3e3';
-    echo '<div class="w-200px h-auto border border-secondary bg-light float-right text-left ml-2 mb-3 p-2">';
+    echo '<div class="w-200px h-auto border border-secondary bg-light float-right text-left ml-2 mb-3 p-2 lh-115">';
     echo '<h5>UPCOMING EVENTS</h5>';
-    echo '<span class="small text-secondary">CURRENT DATE: ' . $result_date['t_date'] . '</span><br />';
-    echo '<span class="small text-secondary">Events during the next ' . $result_settings['event_interval'] . ' days:</span><br />';
-    echo '<table style="margin: 5px 0px 0px 0px;">';
-    echo '<tr style="background-color: #e3e3e3;"><td style="width: 70px; padding: 5px 3px 5px 2px;"><span class="small"><b>DATE</b></span></td>';
-    echo '<td style="padding: 5px 3px 5px 2px;"><span class="small"><b>EVENT</b></span></td>';
+    echo '<p class="small text-secondary my-2">CURRENT DATE: ' . $result_date['t_date'] . '</p>';
+    echo '<p class="small text-secondary my-2">Events during the next ' . $result_settings['event_interval'] . ' days:</p>';
+    echo '<table>';
+    echo '<tr class="bg-ltgray">';
+    echo '<td><p class="small my-1"><b>DATE</b></p></td>';
+    echo '<td><p class="small my-1"><b>EVENT</b></p></td>';
     echo '</tr>';
     if ($query_events->num_rows < 1) {
-        echo '<tr style="background-color: #ffffff;"><td colspan="2"><span class="small">List is being updated... please try back soon.</span></td></tr>';
+        echo '<tr>';
+        echo '<td colspan="2"><p class="small my-2">List is being updated... please try back soon.</p></td>';
+        echo '</tr>';
     } else {
         while ($result_events = $query_events->fetch_assoc()) {
-            if ($alternate == 1) {
-                $bgclass = $bgcolor1;
-                $alternate = 2;
-            } else {
-                $bgclass = $bgcolor2;
-                $alternate = 1;
-            }
-            echo '<tr style="{' . $bgclass . ';}"><td style="padding: 5px 5px 5px 2px;"><span class="small">' . $result_events['eventdate1'] . '</span></td>';
-            echo '<td style="padding: 5px 5px 5px 2px;"><span class="small">' . $result_events['eventdesc'] . '</span></td></tr>';
+            echo '<tr>';
+            echo '<td class="py-2 pr-2 border-bottom"><p class="small m-0">' . $result_events['eventdate1'] . '</p></td>';
+            echo '<td class="py-2 border-bottom"><p class="small m-0">' . $result_events['eventdesc'] . '</p></td>';
+            echo '</tr>';
         }
         $query_events->free_result();
     }
     echo '</table>';
-    echo '<div class="small mt-3 d-flex align-items-center justify-content-end"><img src="components/eventsBox/images/arrow.gif" alt="Upcoming Events" width="11" height="11" /><img src="components/eventsBox/images/arrow.gif" alt="Upcoming Events" width="11" height="11" /><a href="events.php">View All Upcoming Events</a></div>';
+    echo '<div class="small mt-3 d-flex align-items-center justify-content-end">';
+    echo '<img src="components/eventsBox/images/arrow.gif" alt="Upcoming Events" width="11" height="11" /><img src="components/eventsBox/images/arrow.gif" alt="Upcoming Events" width="11" height="11" /><a href="events.php">View All Upcoming Events</a>';
+    echo '</div>';
     echo '</div>';
 }

@@ -9,7 +9,7 @@ while ($result_page = $query_page->fetch_assoc()) {
     echo '<h2>' . $result_page['page_header'] . '</h2>';
 }
 $query_page->free_result();
-echo '<div class="centered">';
+echo '<div class="text-center">';
 if (isset($get_show) && $get_show == 'minors') {
     echo '<span class="t12">showing only minor leaguers</span>';
 } else {

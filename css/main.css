@@ -1,6 +1,6 @@
 body,
 html {
-    color: #000000;
+    color: #212529;
     background-color: #a7a09a;
     font-size: 14px;
 }
@@ -29,6 +29,14 @@ html {
 .ls-2 {
     letter-spacing: 2px;
 }
+
+.lh-115 {
+    line-height: 1.15;
+}
+
+.min-w-50 {
+    min-width: 50%;
+  }
 
 .bg-ltgray {
     background-color: #dedede
