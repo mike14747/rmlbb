@@ -273,44 +273,6 @@ table.roster {
     width: 950px;
 }
 
-td.schedl {
-    border-width: 1px;
-    padding: 5px 50px 5px 5px;
-    border-style: solid;
-    border-color: #999999;
-    background-color: #dedede;
-    text-align: left;
-    font-weight: bold;
-}
-
-td.schedc {
-    border-width: 1px;
-    padding: 5px;
-    border-style: solid;
-    border-color: #999999;
-    background-color: #dedede;
-    text-align: center;
-    font-weight: bold;
-}
-
-td.schedulel {
-    border-width: 1px;
-    padding: 5px 50px 5px 5px;
-    border-style: solid;
-    border-color: #999999;
-    background-color: #ffffff;
-    text-align: left;
-}
-
-td.schedulec {
-    border-width: 1px;
-    padding: 5px;
-    border-style: solid;
-    border-color: #999999;
-    background-color: #ffffff;
-    text-align: center;
-}
-
 td.no_borderc {
     border-width: 0px;
     padding: 5px;
