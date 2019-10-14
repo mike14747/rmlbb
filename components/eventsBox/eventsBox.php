@@ -12,10 +12,13 @@ if ($result_settings['display_events'] == 1) {
     echo '<p class="small text-secondary my-2">CURRENT DATE: ' . $result_date['t_date'] . '</p>';
     echo '<p class="small text-secondary my-2">Events during the next ' . $result_settings['event_interval'] . ' days:</p>';
     echo '<table>';
+    echo '<thead>';
     echo '<tr class="bg-ltgray">';
-    echo '<td><p class="small my-1"><b>DATE</b></p></td>';
-    echo '<td><p class="small my-1"><b>EVENT</b></p></td>';
+    echo '<th><p class="small my-1 pl-1"><b>DATE</b></p></th>';
+    echo '<th><p class="small my-1"><b>EVENT</b></p></th>';
     echo '</tr>';
+    echo '</thead>';
+    echo '<tbody>';
     if ($query_events->num_rows < 1) {
         echo '<tr>';
         echo '<td colspan="2"><p class="small my-2">List is being updated... please try back soon.</p></td>';
@@ -29,6 +32,7 @@ if ($result_settings['display_events'] == 1) {
         }
         $query_events->free_result();
     }
+    echo '</tbody>';
     echo '</table>';
     echo '<div class="small mt-3 d-flex align-items-center justify-content-end">';
     echo '<img src="components/eventsBox/images/arrow.gif" alt="Upcoming Events" width="11" height="11" /><img src="components/eventsBox/images/arrow.gif" alt="Upcoming Events" width="11" height="11" /><a href="events.php">View All Upcoming Events</a>';

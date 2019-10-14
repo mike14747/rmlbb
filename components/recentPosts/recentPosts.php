@@ -2,7 +2,7 @@
 if ($result_settings['display_recent'] == 1) {
     echo '<div class="w-200px h-auto clear-right border border-secondary bg-light float-right text-left ml-2 mb-3 p-2 lh-115">';
     echo '<h5>MESSAGE BOARD ACTIVITY</h5>';
-    echo '<p class="small mt-2 mb-3 py-1 bg-ltgray"><b>' . $result_settings['recent_posts'] . ' MOST RECENT POSTS:</b></p>';
+    echo '<p class="small mt-2 mb-3 py-1 pl-1 bg-ltgray"><b>' . $result_settings['recent_posts'] . ' MOST RECENT POSTS:</b></p>';
     // connect to the message board datbase
     require_once('connections/conn2.php');
     // select the most recent x number of message board posts
@@ -13,30 +13,31 @@ if ($result_settings['display_recent'] == 1) {
         echo '<p class="my-2"><span class="text-secondary small">POSTED ON: </span>' . $result_posts['post_time1'] . '</p>';
         echo '<p class="my-2"><span class="small text-secondary">FORUM: </span>';
         $cleaned_forum = filter_var($result_posts['forum_name'], FILTER_SANITIZE_STRING);
-        if (strlen($result_posts['forum_name']) >= 30) {
-            echo substr($cleaned_forum, 0, 30) . '~';
+        if (strlen($result_posts['forum_name']) >= 25) {
+            echo substr($cleaned_forum, 0, 24) . '~';
         } else {
             echo $cleaned_forum;
         }
         echo '</p>';
         echo '<p class="my-2"><span class="small text-secondary">TOPIC: </span>';
         $cleaned_topic = filter_var($result_posts['post_subject'], FILTER_SANITIZE_STRING);
-        if (strlen($cleaned_topic) >= 30) {
-            echo substr($cleaned_topic, 0, 30) . '~';
+        if (strlen($cleaned_topic) >= 25) {
+            echo substr($cleaned_topic, 0, 24) . '~';
         } else {
             echo $cleaned_topic;
         }
         echo '</p>';
         echo '<p class="my-2"><span class="small text-secondary">AUTHOR: </span>' . $result_posts['username'] . '</p>';
         echo '<p class="mt-2 mb-3"><span class="small text-secondary">MESSAGE: </span>';
-        $cleaned_message_text = filter_var($result_posts['post_text'], FILTER_SANITIZE_STRING);
+        // $cleaned_message_text = $conn->real_escape_string(strip_tags(filter_var($result_posts['post_text'], FILTER_SANITIZE_STRING)));
+        $cleaned_message_text = strip_tags(str_replace("\n", " ", filter_var($result_posts['post_text'], FILTER_SANITIZE_STRING)));
         // save message text and bbcode to a variable, then remove the bbcode and carriage returns
         // $original_message_text = $conn->real_escape_string(strip_tags(str_replace("\n", " ", $result_posts['post_text'])));
-        // $pattern = '~\[[^]]+]~';
-        // $replace = '';
-        // $cleaned_message_text = preg_replace($pattern, $replace, $original_message_text);
+        $pattern = '~\[[^]]+]~';
+        $replace = '';
+        $cleaned_message_text = preg_replace($pattern, $replace, $cleaned_message_text);
         if (strlen($cleaned_message_text) >= 25) {
-            echo substr($cleaned_message_text, 0, 22) . '~';
+            echo substr($cleaned_message_text, 0, 24) . '~';
         } else {
             echo $cleaned_message_text;
         }

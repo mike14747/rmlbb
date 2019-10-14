@@ -23,8 +23,8 @@ echo '<div class="min-w-50 mx-auto">';
 echo '<table class="table table-bordered table-hover">';
 echo '<thead>';
 echo '<tr class="bg-ltgray">';
-echo '<td><span class="bigger"><b>DATE</b></span></td>';
-echo '<td><span class="bigger"><b>EVENT</b></span></td>';
+echo '<th>DATE</th>';
+echo '<th>EVENT</th>';
 echo '</tr>';
 echo '</thead>';
 echo '<tbody>';
@@ -34,8 +34,10 @@ if ($query_events->num_rows < 1) {
     echo '</tr>';
 } else {
     while ($result_events = $query_events->fetch_assoc()) {
-        echo '<tr><td>' . $result_events['eventdate1'] . '</td>';
-        echo '<td>' . $result_events['eventdesc'] . '</td></tr>';
+        echo '<tr>';
+        echo '<td>' . $result_events['eventdate1'] . '</td>';
+        echo '<td>' . $result_events['eventdesc'] . '</td>';
+        echo '</tr>';
     }
 }
 echo '</tbody>';
