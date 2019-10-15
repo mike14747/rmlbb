@@ -7,4 +7,6 @@ vendor/
 
 .env
 
-downloads/old_downloads
+downloads/old_downloads/
+
+csv_files/
