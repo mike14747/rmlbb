@@ -9,19 +9,19 @@ $query_downloads = $conn->query("SELECT * FROM downloads WHERE display=1 ORDER B
 if ($query_downloads->num_rows > 0) {
     echo '<div class="d-flex justify-content-center">';
     echo '<div class="min-w-50 mx-auto">';
-    echo '<table class="table table-bordered table-hover mt-4">';
+    echo '<table class="table table-hover mt-4">';
     echo '<thead>';
     echo '<tr class="bg-ltgray">';
-    echo '<th>FILE DESCRIPTION</th>';
-    echo '<th>FILE TO BE DOWNLOADED</th>';
+    echo '<th class="border border-secondary">FILE DESCRIPTION</th>';
+    echo '<th class="border border-secondary">FILE TO BE DOWNLOADED</th>';
     echo '</tr>';
     echo '</thead>';
     echo '<tbody>';
     while ($results_downloads = $query_downloads->fetch_assoc()) {
         echo '<tr>';
-        echo '<td>' . $results_downloads['description'] . '</td>';
+        echo '<td class="border border-secondary">' . $results_downloads['description'] . '</td>';
         $clean_filename = rawurlencode($results_downloads['file_name']);
-        echo '<td>';
+        echo '<td class="border border-secondary">';
         echo '<div class="d-flex align-items-center justify-content-start">';
         echo '<img src="images/arrow.gif" alt="Download" width="11" height="11" /> <a href="downloads/' . $clean_filename . '">' . $results_downloads['file_name'] . '</a>';
         echo '</div>';

@@ -15,18 +15,18 @@ if ($requested_team != 'none') {
     echo '<p class="text-center my-4">Showing full season schedule for: <b>' . $requested_team . '</b>.</p>';
     echo '<div class="d-flex justify-content-center">';
     echo '<div class="min-w-50 mx-auto">';
-    echo '<table class="table table-bordered">';
+    echo '<table class="table table-hover">';
     echo '<thead>';
     echo '<tr class="bg-ltgray">';
-    echo '<td>DATE</td>';
-    echo '<td>MATCHUP</td>';
+    echo '<th class="border border-secondary">DATE</th>';
+    echo '<th class="border border-secondary">MATCHUP</th>';
     echo '</tr>';
     echo '</thead>';
     echo '<tbody>';
     while ($result_schedule = $query_schedule->fetch_assoc()) {
         echo '<tr>';
-        echo '<td>' . $result_schedule['days_date1'] . '</td>';
-        echo '<td>';
+        echo '<td class="border border-secondary">' . $result_schedule['days_date1'] . '</td>';
+        echo '<td class="border border-secondary">';
         if (is_null($result_schedule['matchup'])) {
             echo '--- Day Off ---';
         } else {
@@ -44,20 +44,20 @@ if ($requested_team != 'none') {
     echo '<p class="text-center my-4">Full season day by day schedule for <b>All Teams</b>.<br />(Click on any team to see only that team\'s schedule)</p>';
     echo '<div class="d-flex justify-content-center">';
     echo '<div class="min-w-50 mx-auto">';
-    echo '<table class="table table-bordered">';
+    echo '<table class="table table-hover">';
     echo '<thead>';
     echo '<tr class="bg-ltgray">';
-    echo '<td><b>DATE</b></td>';
-    echo '<td><b>AWAY TEAM</b></td>';
-    echo '<td><b>HOME TEAM</b></td>';
+    echo '<th class="border border-secondary">DATE</th>';
+    echo '<th class="border border-secondary">AWAY TEAM</th>';
+    echo '<th class="border border-secondary">HOME TEAM</th>';
     echo '</tr>';
     echo '</thead>';
     echo '<tbody>';
     while ($result_schedule = $query_schedule->fetch_assoc()) {
         echo '<tr>';
-        echo '<td>' . $result_schedule['game_date1'] . '</td>';
-        echo '<td><a href="current_season_schedule.php?ind_team=' . $result_schedule['away_team'] . '">' . $result_schedule['away_team'] . '</a></td>';
-        echo '<td><a href="current_season_schedule.php?ind_team=' . $result_schedule['home_team'] . '">' . $result_schedule['home_team'] . '</a></td>';
+        echo '<td class="border border-secondary">' . $result_schedule['game_date1'] . '</td>';
+        echo '<td class="border border-secondary"><a href="current_season_schedule.php?ind_team=' . $result_schedule['away_team'] . '">' . $result_schedule['away_team'] . '</a></td>';
+        echo '<td class="border border-secondary"><a href="current_season_schedule.php?ind_team=' . $result_schedule['home_team'] . '">' . $result_schedule['home_team'] . '</a></td>';
         echo '</tr>';
     }
     echo '</tbody>';

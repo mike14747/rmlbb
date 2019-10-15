@@ -20,11 +20,11 @@ if (isset($get_view) && $get_view == 'include_past') {
 }
 echo '<div class="d-flex justify-content-center">';
 echo '<div class="min-w-50 mx-auto">';
-echo '<table class="table table-bordered table-hover">';
+echo '<table class="table table-hover">';
 echo '<thead>';
 echo '<tr class="bg-ltgray">';
-echo '<th>DATE</th>';
-echo '<th>EVENT</th>';
+echo '<th class="border border-secondary">DATE</th>';
+echo '<th class="border border-secondary">EVENT</th>';
 echo '</tr>';
 echo '</thead>';
 echo '<tbody>';
@@ -35,8 +35,8 @@ if ($query_events->num_rows < 1) {
 } else {
     while ($result_events = $query_events->fetch_assoc()) {
         echo '<tr>';
-        echo '<td>' . $result_events['eventdate1'] . '</td>';
-        echo '<td>' . $result_events['eventdesc'] . '</td>';
+        echo '<td class="border border-secondary">' . $result_events['eventdate1'] . '</td>';
+        echo '<td class="border border-secondary">' . $result_events['eventdesc'] . '</td>';
         echo '</tr>';
     }
 }
