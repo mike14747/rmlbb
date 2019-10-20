@@ -29,10 +29,8 @@ if ($result_settings['display_recent'] == 1) {
         echo '</p>';
         echo '<p class="my-2"><span class="small text-secondary">AUTHOR: </span>' . $result_posts['username'] . '</p>';
         echo '<p class="mt-2 mb-3"><span class="small text-secondary">MESSAGE: </span>';
-        // $cleaned_message_text = $conn->real_escape_string(strip_tags(filter_var($result_posts['post_text'], FILTER_SANITIZE_STRING)));
-        $cleaned_message_text = strip_tags(str_replace("\n", " ", filter_var($result_posts['post_text'], FILTER_SANITIZE_STRING)));
-        // save message text and bbcode to a variable, then remove the bbcode and carriage returns
-        // $original_message_text = $conn->real_escape_string(strip_tags(str_replace("\n", " ", $result_posts['post_text'])));
+        $cleaned_message_text = strip_tags(str_replace(array('\n', '\r', '<br>', '<br/>', '<br />'), '', filter_var($result_posts['post_text'], FILTER_SANITIZE_STRING)));
+        // save message text and bbcode to a variable, then remove the bbcode
         $pattern = '~\[[^]]+]~';
         $replace = '';
         $cleaned_message_text = preg_replace($pattern, $replace, $cleaned_message_text);
@@ -41,12 +39,17 @@ if ($result_settings['display_recent'] == 1) {
         } else {
             echo $cleaned_message_text;
         }
+        // echo $result_posts['post_text'];
         echo '</p>';
         echo '</div>';
     }
     $query_posts->free_result();
     // start log into message board link
-    echo '<div class="small mt-3 d-flex align-items-center justify-content-end"><img src="components/recentPosts/images/arrow.gif" alt="Message Board" width="11" height="11" /><img src="components/recentPosts/images/arrow.gif" alt="Message Board" width="11" height="11" /><a href="phpBB3/index.php">Go to the Message Board</a></div>';
+    echo '<div class="small mt-3 d-flex align-items-center justify-content-end">';
+    echo '<img src="components/recentPosts/images/arrow.gif" alt="Message Board" width="11" height="11" />';
+    echo '<img src="components/recentPosts/images/arrow.gif" alt="Message Board" width="11" height="11" />';
+    echo '<a href="phpBB3/index.php">Go to the Message Board</a>';
+    echo '</div>';
     echo '</div>';
     // close the connection to the message board database
     $conn2->close();
