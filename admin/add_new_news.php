@@ -7,7 +7,7 @@ echo '<div class="row">';
 echo '<div class="col-2">';
 include('components/leftnav2/leftnav2.php');
 echo '</div>';
-echo '<div class="col-10 border-left border-dark py-3">';
+echo '<div class="col-10 py-3">';
 
 // Check to see if a submit button has been clicked
 if (isset($_POST['submit']) && $_POST['submit'] == 'Submit News') {
@@ -40,10 +40,10 @@ if (isset($_POST['submit']) && $_POST['submit'] == 'Submit News') {
         // insert new news item into the database since there is no existing news_id
         $conn1->query("INSERT INTO rmlnews (newsheader, newsdate, newstext) VALUES ('$add_newsheader', '$add_newsdate', '$add_newstext')");
         // display confirmation message that the info has been added to the database
-        echo '<p class="t16"><span class="blue"><b>A news item has been added with the following:</b></span></p>';
+        echo '<p class="bigger primary"><b>A news item has been added with the following:</b></p>';
         echo '<h4>' . $add_newsheader . '</h4>';
-        echo '<span class="newsdate">Posted on: ' . $add_newsdate . '</span><br /><br />';
-        echo '<span class="t14">' . $_POST['newstext'] . '</span>';
+        echo '<p class="small ls-1 text-secondary">Posted on: ' . $add_newsdate . '</p>';
+        echo $_POST['newstext'];
     }
 }
 if ((isset($t_errors) && $t_errors > 0) || !isset($_POST['submit'])) {
@@ -60,22 +60,22 @@ if ((isset($t_errors) && $t_errors > 0) || !isset($_POST['submit'])) {
     // since submit button has not been clicked or there are errors, display the form
     echo '<h2>ADD NEW NEWS ITEM</h2>';
     echo '<form action="' . $_SERVER['PHP_SELF'] . '" method="post">';
-    echo '<p class="updateitem"><b>Enter newsheader</b> (ie: "Pages Updated" or "Series 6 Results"):<br /><br /><input type="text" name="newsheader" size="50" maxlength="60"';
+    echo '<div class="pb-4 bb-dotted"><b>Enter newsheader</b> (ie: "Pages Updated" or "Series 6 Results"):<br /><br /><input type="text" name="newsheader" size="50" maxlength="60"';
     if (isset($_POST['newsheader'])) {
         echo ' value="' . $_POST['newsheader'] . '"';
     }
-    echo ' /></p>';
-    echo '<p class="updateitem"><b>Enter newsdate</b> (in this format: YYYY-MM-DD):<br /><br /><input type="text" name="newsdate" id="datepicker" size="15" maxlength="10"';
+    echo ' /></div>';
+    echo '<div class="py-4 bb-dotted"><b>Enter newsdate</b> (in this format: YYYY-MM-DD):<br /><br /><input type="text" name="newsdate" id="datepicker" size="15" maxlength="10"';
     if (isset($_POST['newsdate'])) {
         echo ' value="' . $_POST['newsdate'] . '"';
     }
-    echo ' /></p>';
-    echo '<p class="updateitem"><b>Enter newstext</b> (for a single line break hold Shift, then press Enter):<br /><br /><textarea name="newstext" rows="10" cols="100">';
+    echo ' /></div>';
+    echo '<div class="py-4 bb-dotted"><b>Enter newstext</b> (for a single line break hold Shift, then press Enter):<br /><br /><textarea name="newstext" rows="10" cols="100">';
     if (isset($_POST['newstext'])) {
         echo $_POST['newstext'];
     }
-    echo '</textarea></p>';
-    echo '<p class="updateitem">Click "Submit News" to add this news item: <input type="submit" name="submit" value="Submit News" /></p><br />';
+    echo '</textarea></div>';
+    echo '<div class="mt-5">Click "Submit News" to add this news item: <input type="submit" name="submit" value="Submit News" /></div>';
     echo '</form>';
 }
 

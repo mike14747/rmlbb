@@ -36,10 +36,10 @@ html {
 
 .min-w-50 {
     min-width: 50%;
-  }
+}
 
 .bg-ltgray {
-    background-color: #dedede
+    background-color: #dedede;
 }
 
 i {
@@ -150,15 +150,6 @@ h2 {
     overflow: auto;
 }
 
-h3 {
-    font-size: 16px;
-    font-weight: normal;
-    background-color: #ffffff;
-    border-bottom: 1px dotted #999999;
-    padding: 5px;
-    margin: 0px;
-}
-
 h4 {
     font-size: 16px;
     font-weight: bold;
@@ -249,17 +240,6 @@ nav ul ul li a:hover {
     color: #003366;
 }
 
-table.schedule {
-    font-size: 14px;
-    color: #333333;
-    border-width: 1px;
-    border-color: #999999;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 20px;
-    margin-bottom: 30px;
-}
-
 table.roster {
     font-size: 14px;
     color: #333333;
@@ -271,11 +251,4 @@ table.roster {
     margin-top: 5px;
     margin-bottom: 30px;
     width: 950px;
-}
-
-td.no_borderc {
-    border-width: 0px;
-    padding: 5px;
-    background-color: #ffffff;
-    text-align: center;
 }

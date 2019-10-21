@@ -13,7 +13,8 @@ if (isset($get_view) && $get_view == 'include_past') {
     $query_events = $conn->query("SELECT eventdesc, DATE_FORMAT(eventdate, '%M %d, %Y') AS eventdate1 FROM events ORDER BY eventdate ASC");
 } else {
     echo '<div class="my-4 d-flex align-items-center justify-content-center">';
-    echo '<img src="images/arrow.gif" alt="Include Past Events" width="11" height="11" /><a href="events.php?view=include_past">include past events</a>';
+    echo '<img src="images/arrow.gif" alt="Include Past Events" width="11" height="11" />';
+    echo '<a href="events.php?view=include_past">include past events</a>';
     echo '</div>';
     // Select events whose date is >= to the current date
     $query_events = $conn->query("SELECT eventdesc, DATE_FORMAT(eventdate, '%M %d, %Y') AS eventdate1 FROM events WHERE eventdate >= CURDATE() ORDER BY eventdate ASC");

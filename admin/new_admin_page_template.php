@@ -7,7 +7,7 @@ echo '<div class="row">';
 echo '<div class="col-2">';
 include('components/leftnav2/leftnav2.php');
 echo '</div>';
-echo '<div class="col-10 border-left border-dark py-3">';
+echo '<div class="col-10 py-3">';
 echo '<h2>Page Heading</h2>';
 
 

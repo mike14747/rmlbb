@@ -7,7 +7,7 @@ echo '<div class="row">';
 echo '<div class="col-2">';
 include('components/leftnav2/leftnav2.php');
 echo '</div>';
-echo '<div class="col-10 border-left border-dark py-3">';
+echo '<div class="col-10 py-3">';
 
 // check to see if the submit button has been clicked
 if (isset($_POST['submit']) && $_POST['submit'] == 'Submit') {

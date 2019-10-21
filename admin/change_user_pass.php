@@ -48,7 +48,7 @@ echo '<div class="row">';
 echo '<div class="col-2">';
 include('components/leftnav2/leftnav2.php');
 echo '</div>';
-echo '<div class="col-10 border-left border-dark py-3">';
+echo '<div class="col-10 py-3">';
 echo '<h2>UPDATE YOUR ADMIN USERNAME OR PASSWORD</h2>';
 
 // this is where you land when you first come to this page or if there were errors in your submission

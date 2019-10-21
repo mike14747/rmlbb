@@ -30,7 +30,7 @@ echo '<div class="row">';
 echo '<div class="col-2">';
 include('components/leftnav2/leftnav2.php');
 echo '</div>';
-echo '<div class="col-10 border-left border-dark py-3">';
+echo '<div class="col-10 py-3">';
 echo '<h2>ADD AN UPCOMING EVENT</h2>';
 
 if ((isset($error_string) && $error_string != 'Success') || !isset($error_string)) {

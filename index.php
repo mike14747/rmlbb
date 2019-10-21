@@ -45,7 +45,7 @@ while ($result_news = $query_news->fetch_assoc()) {
         echo '<div class="border-bottom border-secondary py-2 overflow-auto">';
     }
     echo '<h4>' . $result_news['newsheader'] . '</h4>';
-    echo '<div class="my-2 small text-secondary ls-1">DATE: ' . $result_news['newsdate1'] . '</div>';
+    echo '<div class="mt-2 mb-3 small text-secondary ls-1">DATE: ' . $result_news['newsdate1'] . '</div>';
     echo $result_news['newstext'];
     echo '</div>';
     $news_items--;
