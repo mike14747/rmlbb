@@ -42,17 +42,17 @@ if ((isset($error_string) && $error_string != 'Success') || !isset($error_string
     }
     // the form was either submitted with errors or was not submitted at all so, display the form
     echo '<form action="' . $_SERVER['PHP_SELF'] . '" method="post">';
-    echo '<p class="updateitem"><b>Enter event date</b> (in this format: YYYY-MM-DD):<br /><br /><input type="text" name="eventdate" id="datepicker" maxlength="10" size="15" value="';
+    echo '<div class="pb-4 bb-dotted"><b>Enter event date</b> (in this format: YYYY-MM-DD):<br /><br /><input type="text" name="eventdate" id="datepicker" maxlength="10" size="15" value="';
     if (isset($_POST['eventdate'])) {
         echo $_POST['eventdate'];
     }
-    echo '" /></p>';
-    echo '<p class="updateitem"><b>Enter event description</b> (ie: "Unowned Player Draft" or "Series 3 Due Date"):<br /><br /><input type="text" name="eventdesc" size="50" maxlength="200" value="';
+    echo '" /></div>';
+    echo '<div class="py-4 bb-dotted"><b>Enter event description</b> (ie: "Unowned Player Draft" or "Series 3 Due Date"):<br /><br /><input type="text" name="eventdesc" size="50" maxlength="200" value="';
     if (isset($_POST['eventdesc'])) {
         echo $_POST['eventdesc'];
     }
-    echo '" /></p>';
-    echo '<p class="updateitem">Click "Submit Event" to add a new Upcoming Event with the info provided: <input type="submit" name="submit" value="Submit Event" /></p><br />';
+    echo '" /></div>';
+    echo '<div class="mt-5">Click "Submit Event" to add a new Upcoming Event with the info provided: <input type="submit" name="submit" value="Submit Event" /></div';
     echo '</form>';
 } elseif (isset($error_string) && $error_string == 'Success') {
     // the form was successfully submitted, so show display that success

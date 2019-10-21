@@ -38,11 +38,12 @@ if (isset($_POST['submit']) && isset($error_string) && $error_string == '') {
         echo '<p>' . $error_string . '</p>';
     }
     echo '<form action="add_download.php" method="post" enctype="multipart/form-data">';
-    echo '<p class="my-1"><b>Description</b> (name that shows up in the navigation bar and on the downloads page... max length is 40 characters):</p><input class="mb-4" type="text" name="description" value="';
+    echo '<p class="my-1"><b>Description</b> (name that shows up in the navigation bar and on the downloads page... max length is 40 characters):</p>';
+    echo '<input class="mb-4" type="text" name="description" value="';
     if (isset($_POST['description'])) {
         echo $_POST['description'];
     }
-    echo '"  size="40" maxlength="40" />';
+    echo '" size="40" maxlength="40" />';
     echo '<p class="my-1"><b>Display (enable) this page</b> (this includes displaying it on both the navigation bar and the downloads page... selecting "No" will not delete the download, just disable it until it\'s re-enabled):</p>';
     echo 'Yes <input class="mr-4" type="radio" name="display" value="1" checked />';
     echo 'No <input class="mb-4" type="radio" name="display" value="0" />';

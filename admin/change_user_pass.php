@@ -57,31 +57,33 @@ if (isset($_GET['error'])) {
 }
 echo '<form action="' . $_SERVER['PHP_SELF'] . '" method="post">';
 // start the code for updating username
-echo '<p class="t16"><b>Change your username to:</b> &nbsp; ';
-echo '<input type="hidden" name="user_id" value="' . $_SESSION['user_id'] . '" />';
-echo '<input type="text" name="username" size="25" value="' . $_SESSION['rmlbb_username'] . '" /> &nbsp; <input type="submit" name="submit" value="Change Username" />';
+echo '<p><b>Change your username to:</b> ';
+echo '<input class="ml-2" type="hidden" name="user_id" value="' . $_SESSION['user_id'] . '" />';
+echo '<input class="ml-2" type="text" name="username" size="25" value="' . $_SESSION['rmlbb_username'] . '" />';
+echo '<input class="ml-2" type="submit" name="submit" value="Change Username" />';
 echo '</p>';
-echo '<p><b>Note:</b><br />';
+echo '<p class="mb-1"><b>Note:</b></p>';
 echo '<ul>';
 echo '<li>Username must be from 4 to 20 characters in length.</li>';
 echo '<li>It must conain only letters, numbers, underscores or dashes.</li>';
-echo '</ul></p><br />';
+echo '</ul>';
 echo '</form>';
-echo '<br /><hr width="80%"><br /><br />';
+echo '<hr class="my-5 ml-2 w-75" align="left">';
 // start the code for updating password
 echo '<form action="' . $_SERVER['PHP_SELF'] . '" method="post">';
 echo '<input type="hidden" name="user_id" value="' . $_SESSION['user_id'] . '" />';
-echo '<p class="t16"><b>Change your password to:</b> &nbsp; ';
-echo '<input type="password" name="password1" size="25" maxlength="20" value="" />';
+echo '<p><b>Change your password to:</b> ';
+echo '<input class="ml-2" type="password" name="password1" size="25" maxlength="20" value="" />';
 echo '</p>';
-echo '<p class="t16"><b>Re-enter your new password:</b> &nbsp; ';
-echo '<input type="password" name="password2" size="25" maxlength="20" /> &nbsp; <input type="submit" name="submit" value="Change Password" />';
+echo '<p><b>Re-enter your new password:</b> ';
+echo '<input class="mx-2" type="password" name="password2" size="25" maxlength="20" />';
+echo '<input type="submit" name="submit" value="Change Password" />';
 echo '</p>';
-echo '<p><b>Note:</b><br />';
+echo '<p class="mb-1"><b>Note:</b></p>';
 echo '<ul>';
 echo '<li>Password must be from 4 to 20 characters in length.</li>';
 echo '<li>It can conain not only letters, numbers, underscores and dashes, but just about any special character.</li>';
-echo '</ul></p><br />';
+echo '</ul>';
 echo '</form>';
 
 echo '</div>';
