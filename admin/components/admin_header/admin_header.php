@@ -4,7 +4,8 @@ echo '<html lang="en">';
 echo '<head>';
 echo '<title>RML Baseball Admin</title>';
 echo '<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">';
-echo '<link rel="stylesheet" href="../css/admin.css?v=1.2" type="text/css">';
+echo '<link rel="stylesheet" href="../css/admin.css" type="text/css">';
+echo '<link rel="stylesheet" href="../css/me_tables.css" type="text/css">';
 
 // initialize tinymce3
 include('scripts/tinymce3_init.php');

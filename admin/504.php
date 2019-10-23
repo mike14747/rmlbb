@@ -9,7 +9,7 @@ include('components/leftnav2/leftnav2.php');
 echo '</div>';
 
 echo '<div class="m-5 bigger">';
-echo '<p class="text-danger"><b>Error 504!</b><p>';
+echo '<p class="bigger text-danger"><b>Error 504!</b><p>';
 echo '<p>The server is temporary unavailable!</p>';
 echo '<p>Please try to access the site later.</p>';
 echo '</div>';

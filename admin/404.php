@@ -9,7 +9,7 @@ include('components/leftnav2/leftnav2.php');
 echo '</div>';
 
 echo '<div class="m-5 bigger">';
-echo '<p class="text-danger"><b>Error 404!</b><p>';
+echo '<p class="bigger text-danger"><b>Error 404!</b><p>';
 echo '<p>An error has occurred!</p>';
 echo '<p>The page you are looking for does not exist.</p>';
 echo '</div>';

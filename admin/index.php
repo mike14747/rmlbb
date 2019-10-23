@@ -7,7 +7,7 @@ echo '<div class="row">';
 echo '<div class="col-2">';
 include('components/leftnav2/leftnav2.php');
 echo '</div>';
-echo '<div class="col-10 border-left border-dark py-3">';
+echo '<div class="col-10 py-3">';
 echo '<h2>RML ADMIN HOMEPAGE</h2>';
 
 echo '<div class="pb-3">Click on an item on the left to manage that particular part of the main website.</div>';

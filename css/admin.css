@@ -21,9 +21,8 @@ html {
     font-size: 120%;
 }
 
-td {
-    text-align: left;
-    vertical-align: top;
+.min-w-50 {
+    min-width: 50%;
 }
 
 b {
@@ -81,14 +80,6 @@ pre {
     font-family: courier new, monospace;
     font-size: 14px;
     font-weight: normal;
-}
-
-.blue {
-    color: #006699;
-}
-
-.bg-lt-gray {
-    background-color: #eeeeee;
 }
 
 .admin_header {

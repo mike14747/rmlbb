@@ -9,7 +9,7 @@ include('components/leftnav2/leftnav2.php');
 echo '</div>';
 
 echo '<div class="m-5 bigger">';
-echo '<p class="text-danger"><b>Error 502!</b><p>';
+echo '<p class="bigger text-danger"><b>Error 502!</b><p>';
 echo '<p>Bad Gateway!</p>';
 echo '<p>The web server is temporary overloaded and can\'t process your request. Please try to access the site later.</p>';
 echo '</div>';

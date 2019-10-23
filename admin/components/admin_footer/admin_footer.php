@@ -1,5 +1,5 @@
 <div class="row">
-    <div class="col-12 border-top border-dark text-center p-3 small bg-lt-gray">
+    <div class="col-12 border-top border-dark text-center p-3 small bg-ltgray">
         &copy; 2015 RML Baseball
     </div>
 </div>
