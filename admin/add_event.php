@@ -52,7 +52,7 @@ if ((isset($error_string) && $error_string != 'Success') || !isset($error_string
         echo $_POST['eventdesc'];
     }
     echo '" /></div>';
-    echo '<div class="mt-5">Click "Submit Event" to add a new Upcoming Event with the info provided: <input type="submit" name="submit" value="Submit Event" /></div';
+    echo '<div class="mt-5">Click "Submit Event" to add a new Upcoming Event with the info provided: <input type="submit" name="submit" value="Submit Event" /></div>';
     echo '</form>';
 } elseif (isset($error_string) && $error_string == 'Success') {
     // the form was successfully submitted, so show display that success
