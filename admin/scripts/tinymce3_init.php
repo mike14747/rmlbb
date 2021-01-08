@@ -13,11 +13,11 @@
         theme_advanced_buttons3: "",
         theme_advanced_toolbar_location: "top",
         theme_advanced_toolbar_align: "center",
-        paste_text_sticky: true,
-        setup: function(ed) {
-            ed.onInit.add(function(ed) {
-                ed.pasteAsPlainText = true;
-            });
-        }
+        // paste_text_sticky: true,
+        // setup: function(ed) {
+        //     ed.onInit.add(function(ed) {
+        //         ed.pasteAsPlainText = true;
+        //     });
+        // }
     });
 </script>
