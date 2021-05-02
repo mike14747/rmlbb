@@ -1,0 +1,8 @@
+Block #   |   Dates in Strat's Schedule   |   Our Start/Due Dates
+------------------------------------------------------------------------
+Block 1   |   March 29 - April 28         |   April 1 - April 28
+Block 2   |   April 29 - May 29           |   May 1 - May 28
+Block 3   |   May 30 - June 29            |   June 1 - June 28
+Block 4   |   June 30 - July 29           |   July 1 - July 28
+Block 5   |   July 30 - August 29         |   August 1 - August 28
+Block 6   |   August 30 - September 27    |   September 1 - September 28
