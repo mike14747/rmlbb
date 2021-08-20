@@ -90,8 +90,14 @@ h1 {
 }
 
 h2 {
-    font-size: 2rem;
-    font-size: clamp(1.6rem, 1.2vw + 1rem, 2.4rem);
+    color: rgba(0, 0, 0, 0.75);
+    text-align: left;
+    margin: 0rem 0 1rem 0;
+    font-size: clamp(1.2rem, 0.85vw + 0.8rem, 1.8rem);
+    padding: 5px;
+    background-color: #ddeeee;
+    letter-spacing: 1px;
+    overflow: auto;
 }
 
 h3 {
@@ -100,13 +106,24 @@ h3 {
 }
 
 h4 {
-    font-size: 1.5rem;
-    font-size: clamp(1.2rem, 0.85vw + 0.8rem, 1.8rem);
+    font-size: 1rem;
+    font-size: clamp(1rem, 0.55vw + 0.55rem, 1.2rem);
+    font-weight: bold;
+    border: none;
+    padding: 0px;
+    margin: 20px 0px 0px 0px;
+    color: #ee6611;
+    text-transform: uppercase;
 }
 
 h5 {
-    font-size: 1.25rem;
-    font-size: clamp(1.1rem, 0.7vw + 0.7rem, 1.5rem);
+    font-size: 14px;
+    font-size: clamp(1rem, 0.55vw + 0.55rem, 1.2rem);
+    font-weight: bold;
+    border: none;
+    padding: 0px;
+    margin: 0px 0px 0px 0px;
+    color: #ce1839;
 }
 
 h6 {
@@ -540,18 +557,6 @@ template {
     position: sticky;
 }
 
-h2.page-heading {
-    color: rgba(0, 0, 0, 0.75);
-    text-align: left;
-    margin: 0rem 0 1rem 0;
-    font-size: clamp(1.2rem, 0.85vw + 0.8rem, 1.8rem);
-    padding: 5px;
-    background-color: #ddeeee;
-    letter-spacing: 1px;
-    color: #333366;
-    overflow: auto;
-}
-
 /* use with the <main> element on pages */
 .main-container {
     /* enable flex: 1; on the next line for full or semi-full height websites */
@@ -589,10 +594,6 @@ h2.page-heading {
     .main-container,
     .container {
         width: calc(100% - 2rem);
-    }
-
-    .page-heading {
-        margin-top: 0.5rem;
     }
 }
 

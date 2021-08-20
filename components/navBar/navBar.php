@@ -13,3 +13,4 @@ echo '<ul>';
     echo '<li><a href="phpBB3/index.php">Message Board</a></li>';
 echo '</ul>';
 echo '</nav>';
+echo '<main>';

@@ -4,8 +4,7 @@ include('logged_in_check.php');
 include('components/header/header.php');
 include('components/navBar/navBar.php');
 
-echo '<main>';
-echo '<h2 class="page-heading">UPCOMING EVENTS</h2>';
+echo '<h2>UPCOMING EVENTS</h2>';
 if (isset($get_view) && $get_view == 'include_past') {
     echo '<div class="my-4 d-flex align-items-center justify-content-center">';
     echo '<img src="images/arrow.gif" alt="Show All Events" width="11" height="11" /><a href="events.php?view=hide_past">hide past events</a>';
@@ -46,6 +45,5 @@ echo '</tbody>';
 echo '</table>';
 echo '</div>';
 echo '</div>';
-echo '</main>';
 
 include('components/footer/footer.php');

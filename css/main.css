@@ -17,7 +17,6 @@ html {
 }
 
 .header {
-    text-align: right;
     background: linear-gradient(rgba(255, 255, 255, 0.25), rgba(255, 255, 255, 0.25)), url('../components/header/images/header_bg.jpg') center / cover, #eeeeee;
     border-bottom: 1px solid rgba(0, 0, 0, 0.50);
     display: flex;
@@ -31,16 +30,14 @@ html {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 0.75rem;
     width: 100%;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto 1rem auto;
     max-width: 1334px;
 }
 
 main {
     flex: 1;
-    padding: 1rem;
+    padding: 0 1rem;
 }
 
 .footer {
@@ -155,7 +152,7 @@ a img {
     border: 0;
 }
 
-a:link {
+/* a:link {
     color: #333399;
     text-decoration: none;
     font-weight: normal;
@@ -177,7 +174,7 @@ a:active {
     color: #333399;
     text-decoration: none;
     font-weight: normal;
-}
+} */
 
 ol {
     margin-left: 16px;
@@ -240,25 +237,6 @@ input.indent {
     line-height: 150%;
 }
 
-h4 {
-    font-size: 16px;
-    font-weight: bold;
-    border: none;
-    padding: 0px;
-    margin: 20px 0px 0px 0px;
-    color: #ee6611;
-    text-transform: uppercase;
-}
-
-h5 {
-    font-size: 14px;
-    font-weight: bold;
-    border: none;
-    padding: 0px;
-    margin: 0px 0px 0px 0px;
-    color: #ce1839;
-}
-
 .w-200px {
     width: 200px;
 }
@@ -269,18 +247,20 @@ h5 {
 
 /* navbar styles */
 
-nav ul {
+nav > ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
     margin: 0px;
     padding: 0px;
     border: 0px;
     list-style: none;
-    position: relative;
-    display: inline-table;
 }
 
 nav ul li {
-    margin: 0px 3px;
-    float: left;
+    margin: 0.50rem;
+    position: relative;
 }
 
 nav ul li:hover > ul {
@@ -289,7 +269,7 @@ nav ul li:hover > ul {
 
 nav ul li a {
     display: block;
-    padding: 5px;
+    padding: 0.50rem;
     background-color: #ffcc33;
     color: #003366;
     text-decoration: none;
@@ -298,6 +278,7 @@ nav ul li a {
 nav ul li:hover a {
     color: #cc0000;
     background-color: #f3e3c0;
+    text-decoration: none;
 }
 
 nav ul ul {
@@ -307,18 +288,22 @@ nav ul ul {
     list-style: none;
     position: absolute;
     top: 100%;
+    left: -1rem;
 }
 
 nav ul ul li {
     margin: 0px;
-    float: none;
-    position: relative;
+    border-left: 1px solid #cccccc;
+    border-right: 1px solid #cccccc;
+    border-bottom: 1px solid #cccccc;
+}
+
+nav ul ul li:first-child {
     border-top: 1px solid #cccccc;
 }
 
 nav ul ul li a {
-    padding: 10px;
-    font-size: 14px;
+    padding: 0.75rem;
     background-color: #ffcc33;
     color: #003366;
     text-align: left;

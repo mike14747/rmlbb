@@ -15,8 +15,8 @@
     <link rel="stylesheet" href="css/bs4_sizing.css" type="text/css" />
     <link rel="stylesheet" href="css/bs4_tables.css" type="text/css" />
     <link rel="stylesheet" href="css/bs4_text.css" type="text/css" />
-    <link rel="stylesheet" href="css/main.css?v=1.4" type="text/css" />
-    <link rel="stylesheet" href="css/my_base.css?v1.2" type="text/css" />
+    <link rel="stylesheet" href="css/main.css?v=1.1" type="text/css" />
+    <link rel="stylesheet" href="css/my_base_modified.css?v1" type="text/css" />
 </head>
 
 <body>
@@ -34,7 +34,8 @@
             <?php
             $query_contact = $conn->query("SELECT contact_email FROM settings WHERE setting_id=1");
             $result_contact = $query_contact->fetch_assoc();
-            echo '<div><span class="headerRightItems"><a href="index.php">home</a></span><span class="headerRightItems"><a href="mailto:' . $result_contact['contact_email'] . '">contact us</a></span></div>';
+            // echo '<div><span class="headerRightItems"><a href="index.php">home</a></span><span class="headerRightItems"><a href="mailto:' . $result_contact['contact_email'] . '">contact us</a></span></div>';
+            echo '<div><span class="headerRightItems"><a href="mailto:' . $result_contact['contact_email'] . '">contact us</a></span></div>';
             $query_contact->free_result();
             if ($user->data['user_id'] == ANONYMOUS) {
                 echo '<div><span class="headerRightItems"><a href="login.php">login</a></span></div>';
