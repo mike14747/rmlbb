@@ -1,8 +1,6 @@
-</div> <!-- end content div -->
-
-<div class="footer border-top border-dark text-center p-3">
+<footer class="footer">
     &copy; 2015 RML Baseball
-</div>
+</footer>
 </div> <!-- end wrapper div -->
 </body>
 
