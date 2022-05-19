@@ -2,7 +2,7 @@
 echo '<nav class="nav">';
 echo '<ul>';
     // current season dropdown
-    include('currentSeasonDropdown/currentSeasonDropdown.php');
+    // include('currentSeasonDropdown/currentSeasonDropdown.php');
     // downloads dropdown
     include('downloadsDropdown/downloadsDropdown.php');
     echo '<li><a href="constitution.php">Constitution</a></li>';
