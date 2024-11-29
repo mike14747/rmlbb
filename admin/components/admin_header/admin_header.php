@@ -13,7 +13,8 @@ include('scripts/tinymce3_init.php');
 if (basename($_SERVER['PHP_SELF']) == 'edit_download_order.php' || 'add_new_news.php' || 'edit_delete_news.php' || 'add_event.php' || 'edit_delete_event.php') {
     // start scripts for jquery and jqueryui
     echo '<link rel="stylesheet" href="../css/jquery-ui.css">';
-    echo '<script src="../js/jquery-3.2.0.min.js"></script>';
+    // echo '<script src="../js/jquery-3.2.0.min.js"></script>';
+    echo '<script src="../js/jquery-3.7.1.min.js"></script>';
     echo '<script src="../js/jquery-ui.min.js"></script>';
 }
 if (basename($_SERVER['PHP_SELF']) == 'add_new_news.php' || 'edit_delete_news.php' || 'add_event.php' || 'edit_delete_event.php') {
